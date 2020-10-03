@@ -1,0 +1,811 @@
+Id,devicename,batterylife,price,BasemarkX,year,ImageURL,screensize,phoneURL,nfc,headphonejack,dualsim,ir,dxomarkScore,antutu
+1,Samsung Galaxy S10 5G,0,1036,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-5g.jpg,6.7000,https://www.gsmarena.com/samsung_galaxy_s10_5g-9588.php,1,1,1,0,112,371000
+2,Samsung Galaxy S10 plus,91,938,45017,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-plus-new.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_s10+-9535.php,1,1,1,0,109,340000
+3,Samsung Galaxy S10,79,688,44097,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10.jpg,6.1000,https://www.gsmarena.com/samsung_galaxy_s10-9536.php,1,1,1,0,0,326000
+4,Samsung Galaxy S10e,83,607,44059,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10e.jpg,5.8000,https://www.gsmarena.com/samsung_galaxy_s10e-9537.php,1,1,1,0,0,0
+5,Samsung Galaxy Fold,90,1564,45154,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-fold.jpg,7.3000,https://www.gsmarena.com/samsung_galaxy_fold-9523.php,1,0,0,0,0,379000
+6,Samsung Galaxy A2 Core,0,62,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a2-core-sm-a260f.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_a2_core-9636.php,0,1,1,0,0,0
+7,Samsung Galaxy M30,0,223,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m30-.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_m30-9505.php,0,1,1,0,0,107000
+8,Samsung Galaxy M20,103,196,8434,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m20-m205f.jpg,6.3000,https://www.gsmarena.com/samsung_galaxy_m20-9506.php,0,1,1,0,0,109000
+9,Samsung Galaxy M10,89,89,5583,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m10-m105f.jpg,6.2200,https://www.gsmarena.com/samsung_galaxy_m10-9508.php,0,1,1,0,0,46000
+10,Samsung Galaxy A80,0,581,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a80-.jpg,6.7000,https://www.gsmarena.com/samsung_galaxy_a80-9659.php,0,0,1,0,0,204000
+11,Samsung Galaxy A70,103,357,19341,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a70.jpg,6.7000,https://www.gsmarena.com/samsung_galaxy_a70-9646.php,1,1,1,0,0,170000
+12,Samsung Galaxy A60,0,241,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a60-.jpg,6.3000,https://www.gsmarena.com/samsung_galaxy_a60-9616.php,1,0,1,0,0,175000
+13,Samsung Galaxy A50,98,312,19106,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a50-sm-a505f-ds.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_a50-9554.php,1,1,1,0,0,146000
+14,Samsung Galaxy A40,73,223,12098,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a40.jpg,5.9000,https://www.gsmarena.com/samsung_galaxy_a40-9642.php,1,1,1,0,0,109000
+15,Samsung Galaxy A30,0,223,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a30.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_a30-9579.php,0,1,1,0,0,107000
+16,Samsung Galaxy A20e,0,160,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20e.jpg,5.8000,https://www.gsmarena.com/samsung_galaxy_a20e-9661.php,1,1,1,0,0,88000
+17,Samsung Galaxy A20,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_a20-9640.php,1,1,1,0,0,88000
+18,Samsung Galaxy A10,0,107,0,2019,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a10.jpg,6.2000,https://www.gsmarena.com/samsung_galaxy_a10-9580.php,0,1,1,0,0,88000
+19,Samsung Galaxy A8s,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8s-.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_a8s-9432.php,1,0,1,0,0,170000
+20,Samsung Galaxy A6s,0,241,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6s-.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_a6s-9352.php,0,1,1,0,0,136000
+21,Samsung Galaxy A9 (2018),88,321,20322,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a9-2018.jpg,6.3000,https://www.gsmarena.com/samsung_galaxy_a9_(2018)-9344.php,1,1,1,0,0,0
+22,Samsung Galaxy A7 (2018),93,250,15200,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-sm-a750f.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_a7_(2018)-9340.php,1,1,1,0,0,0
+23,Samsung Galaxy Note9,97,670,41994,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note9-r1.jpg,6.4000,https://www.gsmarena.com/samsung_galaxy_note9-9163.php,1,1,1,0,0,0
+24,Samsung Galaxy J6 plus,0,214,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j6-plus-sm-j610f.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_j6+-9334.php,1,1,1,0,0,32000
+25,Samsung Galaxy J4 Core,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j4-core-sm-g410g.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_j4_core-9397.php,0,1,1,0,0,32000
+26,Samsung Galaxy J4 plus,0,169,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j4-plus-sm-j415f.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_j4+-9335.php,1,1,1,0,0,35000
+27,Samsung Galaxy J2 Core,0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-core.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j2_core-9255.php,0,1,1,0,0,37000
+28,Samsung Galaxy On6,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on6-2018.jpg,5.6000,https://www.gsmarena.com/samsung_galaxy_on6-9260.php,0,1,1,0,0,46000
+29,Samsung Galaxy J7 (2018),0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2018.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_(2018)-9234.php,1,1,0,0,0,0
+30,Samsung Galaxy J3 (2018),0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-2018.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j3_(2018)-8928.php,0,1,1,0,0,0
+31,Samsung Galaxy A8 Star (A9 Star),0,312,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-a9-star.jpg,6.3000,https://www.gsmarena.com/samsung_galaxy_a8_star_(a9_star)-9220.php,1,1,1,0,0,0
+32,Samsung Galaxy S Light Luxury,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-light-luxury.jpg,5.8000,https://www.gsmarena.com/samsung_galaxy_s_light_luxury-9202.php,1,1,1,0,0,0
+33,Samsung Galaxy J8,0,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j8-j800.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_j8-9205.php,0,1,1,0,0,57000
+34,Samsung Galaxy J6,0,160,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j6-j600.jpg,5.6000,https://www.gsmarena.com/samsung_galaxy_j6-9203.php,0,1,1,0,0,0
+35,Samsung Galaxy J4,0,125,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j4-j400.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j4-9204.php,0,1,1,0,0,0
+36,Samsung Galaxy A6 plus (2018),106,250,9835,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6-plus-2018-.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_a6+_(2018)-9156.php,1,1,1,0,0,0
+37,Samsung Galaxy A6 (2018),83,178,5639,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a6-2018-.jpg,5.6000,https://www.gsmarena.com/samsung_galaxy_a6_(2018)-9155.php,1,1,1,0,0,0
+38,Samsung Galaxy J7 Duo,0,214,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-duo-sm-j720f.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_duo-9153.php,0,1,1,0,0,0
+39,Samsung Galaxy J7 Prime 2,0,151,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-prime2.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_prime_2-9135.php,0,1,1,0,0,46000
+40,Samsung Galaxy S9 plus,86,554,42134,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-plus-blue.jpg,6.2000,https://www.gsmarena.com/samsung_galaxy_s9+-8967.php,1,1,1,0,99,262000
+41,Samsung Galaxy S9,78,438,42645,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-.jpg,5.8000,https://www.gsmarena.com/samsung_galaxy_s9-8966.php,1,1,1,0,0,261000
+42,Samsung Galaxy J2 Pro (2018),0,107,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-2018-sm-j250-.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j2_pro_(2018)-8904.php,0,1,1,0,0,0
+43,Samsung Galaxy A8 plus (2018),0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-plus-a730f.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_a8+_(2018)-8790.php,1,1,1,0,0,0
+44,Samsung Galaxy A8 (2018),92,241,15299,2018,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-a530f.jpg,5.6000,https://www.gsmarena.com/samsung_galaxy_a8_(2018)-8886.php,1,1,1,0,79,0
+45,Samsung Galaxy J2 (2017),0,107,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-2017-j200g.jpg,4.7000,https://www.gsmarena.com/samsung_galaxy_j2_(2017)-8900.php,0,1,1,0,0,0
+46,Samsung Galaxy C7 (2017),0,250,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c7-2017.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_c7_(2017)-8789.php,0,1,1,0,0,0
+47,Samsung Galaxy Note8,89,491,40890,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-8-sm-n950.jpg,6.3000,https://www.gsmarena.com/samsung_galaxy_note8-8505.php,1,1,1,0,0,0
+48,Samsung Galaxy S8 Active,111,850,37903,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-active.jpg,5.8000,https://www.gsmarena.com/samsung_galaxy_s8_active-8676.php,1,1,0,0,0,201000
+49,Samsung Galaxy J7 V,0,240,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-v-2017.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_v-8778.php,0,1,0,0,0,0
+50,Samsung Galaxy Note FE,0,536,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-fe1.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_note_fe-8683.php,1,1,1,0,0,176000
+51,Samsung Galaxy J7 Max,0,151,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-max.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_j7_max-8684.php,0,1,1,0,0,44000
+52,Samsung Galaxy J7 Pro,107,178,5497,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-pro.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php,1,1,1,0,0,0
+53,Samsung Galaxy J7 (2017),108,178,5489,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2017-sm-j730f.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_(2017)-8675.php,1,1,1,0,0,0
+54,Samsung Galaxy J5 (2017),97,116,5258,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-2017-sm-j530.jpg,5.2000,https://www.gsmarena.com/samsung_galaxy_j5_(2017)-8705.php,1,1,1,0,0,0
+55,Samsung Galaxy J3 (2017),0,98,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-2017.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j3_(2017)-8438.php,1,1,1,0,0,0
+56,Samsung Galaxy Folder2,0,178,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-folder2-g165.jpg,3.8000,https://www.gsmarena.com/samsung_galaxy_folder2-9331.php,0,1,1,0,0,0
+57,Samsung Z4,0,71,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-z4.jpg,4.5000,https://www.gsmarena.com/samsung_z4-8682.php,0,1,1,0,0,17000
+58,Samsung Galaxy S8,84,348,42370,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-.jpg,5.8000,https://www.gsmarena.com/samsung_galaxy_s8-8161.php,1,1,1,0,0,202000
+59,Samsung Galaxy S8 plus,88,420,43862,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-plus-.jpg,6.2000,https://www.gsmarena.com/samsung_galaxy_s8+-8523.php,1,1,1,0,0,194000
+60,Samsung Galaxy C5 Pro,0,196,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c5-pro-sm-c5010.jpg,5.2000,https://www.gsmarena.com/samsung_galaxy_c5_pro-8437.php,1,1,1,0,0,67000
+61,Samsung Galaxy Xcover 4,0,214,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover4-g390f-.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_xcover_4-8577.php,1,1,0,0,0,37000
+62,Samsung Galaxy J1 mini prime,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-nxt.jpg,4.0000,https://www.gsmarena.com/samsung_galaxy_j1_mini_prime-8397.php,0,1,1,0,0,11000
+63,Samsung Galaxy J3 Emerge,0,235,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-emerge-.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j3_emerge-8486.php,0,1,0,0,0,0
+64,Samsung Galaxy C7 Pro,0,268,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c7-pro.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_c7_pro-8435.php,1,1,1,0,0,67000
+65,Samsung Galaxy A7 (2017),115,250,14619,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2017.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_a7_(2017)-8335.php,1,1,1,0,0,0
+66,Samsung Galaxy A5 (2017),95,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2017-new.jpg,5.2000,https://www.gsmarena.com/samsung_galaxy_a5_(2017)-8494.php,1,1,1,0,0,0
+67,Samsung Galaxy A3 (2017),93,196,5160,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a3-2017.jpg,4.7000,https://www.gsmarena.com/samsung_galaxy_a3_(2017)-8336.php,1,1,1,0,0,0
+68,Samsung Galaxy Grand Prime Plus,0,125,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-prime-2016.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_grand_prime_plus-8385.php,0,1,1,0,0,39000
+69,Samsung Galaxy J2 Prime,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-prime-2016.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j2_prime-8424.php,0,1,1,0,0,39000
+70,Samsung Galaxy C9 Pro,0,384,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c9-pro-.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_c9_pro-8347.php,1,1,1,0,0,80000
+71,Samsung Galaxy A8 (2016),0,268,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-2016r1-.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_a8_(2016)-7801.php,1,1,1,0,0,0
+72,Samsung Galaxy On8,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_on8-8367.php,1,1,1,0,0,41000
+73,Samsung Galaxy On7 (2016),0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-2016-g6100-c.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_on7_(2016)-8265.php,0,1,1,0,0,0
+74,Samsung Galaxy J5 Prime,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-prime.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j5_prime-8342.php,0,1,1,0,0,37000
+75,Samsung Galaxy J7 Prime,0,125,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-prime.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_prime-8314.php,0,1,1,0,0,46000
+76,Samsung Z2,0,71,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-z2.jpg,4.0000,https://www.gsmarena.com/samsung_z2-8288.php,0,1,1,0,0,0
+77,Samsung Galaxy Note7 (USA),81,679,33520,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note7-usa.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_note7_(usa)-8242.php,1,1,0,0,0,0
+78,Samsung Galaxy Note7,90,759,32648,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note7.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_note7-8082.php,1,1,1,0,0,0
+79,Samsung Galaxy On7 Pro,0,134,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_on7_pro-8140.php,0,1,1,0,0,0
+80,Samsung Galaxy On5 Pro,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on5.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_on5_pro-8192.php,0,1,1,0,0,0
+81,Samsung Galaxy J Max,0,134,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j-max3.jpg,7.0000,https://www.gsmarena.com/samsung_galaxy_j_max-8186.php,0,1,1,0,0,0
+82,Samsung Galaxy J2 Pro (2016),0,125,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-2016-new.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j2_pro_(2016)-8228.php,0,1,1,0,0,0
+83,Samsung Galaxy J2 (2016),0,107,1419,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2-2016-new.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j2_(2016)-8083.php,0,1,1,0,0,0
+84,Samsung Z3 Corporate,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-z3.jpg,5.0000,https://www.gsmarena.com/samsung_z3_corporate-8170.php,0,1,1,0,0,0
+85,Samsung Galaxy Xcover 3 G389F,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover-3-SM-G389F.jpg,4.5000,https://www.gsmarena.com/samsung_galaxy_xcover_3_g389f-8455.php,1,1,0,0,0,0
+86,Samsung Galaxy S7 active,96,321,32362,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-active.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s7_active-8004.php,1,1,0,0,0,140000
+87,Samsung Galaxy J3 Pro,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3-2017r1.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j3_pro-8126.php,1,1,1,0,0,28000
+88,Samsung Galaxy C7,100,223,10445,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c7.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_c7-8046.php,1,1,1,0,0,60000
+89,Samsung Galaxy C5,75,196,5039,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c5r3.jpg,5.2000,https://www.gsmarena.com/samsung_galaxy_c5-8047.php,1,1,1,0,0,35000
+90,Samsung Galaxy A9 Pro (2016),0,268,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a9-pro1.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_a9_pro_(2016)-7903.php,1,1,1,0,0,0
+91,Samsung Galaxy J7 (2016),101,205,11199,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-2016.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_(2016)-7870.php,1,1,1,0,0,0
+92,Samsung Galaxy J5 (2016),66,169,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-2016r.jpg,5.2000,https://www.gsmarena.com/samsung_galaxy_j5_(2016)-7869.php,1,1,1,0,0,0
+93,Samsung Galaxy S7,80,259,32345,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7--.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s7-7821.php,1,1,1,0,0,134000
+94,Samsung Galaxy S7 edge,92,357,28480,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php,1,1,1,0,89,158000
+95,Samsung Galaxy S7 edge (USA),87,312,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-usa.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php,1,1,0,0,0,0
+96,Samsung Galaxy S7 (USA),0,286,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-usa.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php,1,1,0,0,0,0
+97,Samsung Galaxy J1 Nxt,0,80,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-nxt.jpg,4.0000,https://www.gsmarena.com/samsung_galaxy_j1_nxt-7768.php,0,1,1,0,0,0
+98,Samsung Galaxy J1 (2016),0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-2016.jpg,4.5000,https://www.gsmarena.com/samsung_galaxy_j1_(2016)-7864.php,0,1,1,0,0,0
+99,Samsung Galaxy A9 (2016),103,268,15290,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a9-pro1.jpg,6.0000,https://www.gsmarena.com/samsung_galaxy_a9_(2016)-7641.php,1,1,1,0,0,0
+100,Samsung Galaxy A7 (2016),96,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a7-2016.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_a7_(2016)-7759.php,1,1,1,0,0,0
+101,Samsung Galaxy A5 (2016),91,223,4947,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2016.jpg,5.2000,https://www.gsmarena.com/samsung_galaxy_a5_(2016)-7789.php,1,1,1,0,0,0
+102,Samsung Galaxy A3 (2016),0,151,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a3-2016.jpg,4.7000,https://www.gsmarena.com/samsung_galaxy_a3_(2016)-7791.php,1,1,1,0,0,0
+103,Samsung Galaxy Express Prime,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-express-prime.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_express_prime-8022.php,0,1,0,0,0,0
+104,Samsung Galaxy J3 (2016),66,107,1424,2016,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j3.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j3_(2016)-7760.php,1,1,1,0,0,0
+105,Samsung Galaxy On7,0,160,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_on7-7679.php,0,1,1,0,0,21000
+106,Samsung Galaxy On5,0,125,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on5.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_on5-7648.php,0,1,1,0,0,18000
+107,Samsung Z3,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-z3.jpg,5.0000,https://www.gsmarena.com/samsung_z3-7273.php,0,1,1,0,0,0
+108,Samsung Galaxy J1 Ace,0,125,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-ace.jpg,4.3000,https://www.gsmarena.com/samsung_galaxy_j1_ace-7673.php,0,1,1,0,0,0
+109,Samsung Galaxy Note5 (USA),0,482,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_note5_(usa)-7504.php,1,1,0,0,0,0
+110,Samsung Galaxy Note5,85,420,26281,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_note5-7431.php,1,1,1,0,0,116000
+111,Samsung Galaxy Note5 Duos,0,536,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_note5_duos-7508.php,1,1,1,0,0,0
+112,Samsung Galaxy S6 edge plus (USA),0,491,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-plus.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_s6_edge+_(usa)-7505.php,1,1,0,0,0,0
+113,Samsung Galaxy S6 edge plus,83,473,26333,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-plus.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php,1,1,0,0,0,83000
+114,Samsung Galaxy S6 edge plus Duos,0,473,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-plus.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_s6_edge+_duos-7509.php,1,1,1,0,0,0
+115,Samsung Galaxy S5 Neo,0,312,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s5-neo.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s5_neo-6506.php,1,1,0,0,0,35000
+116,Samsung Galaxy S4 mini I9195I,0,169,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s4-mini-plus-gt-i9195i.jpg,4.3000,https://www.gsmarena.com/samsung_galaxy_s4_mini_i9195i-7468.php,1,1,0,1,0,0
+117,Samsung Galaxy Folder,0,232,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-folder-SM-G150.jpg,3.8000,https://www.gsmarena.com/samsung_galaxy_folder-7453.php,0,1,0,0,0,0
+118,Samsung Galaxy A8 Duos,98,339,8838,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-ds.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_a8_duos-7506.php,0,1,1,0,0,0
+119,Samsung Galaxy A8,98,223,8838,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a8-.jpg,5.7000,https://www.gsmarena.com/samsung_galaxy_a8-7249.php,1,1,0,0,0,28000
+120,Samsung Galaxy V Plus,0,62,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-v-plus-sm-g318.jpg,4.0000,https://www.gsmarena.com/samsung_galaxy_v_plus-7395.php,0,1,1,0,0,0
+121,Samsung Galaxy J7,91,178,3922,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-j700f.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7-7185.php,1,1,1,0,0,0
+122,Samsung Galaxy J7 Nxt,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-nxt-sm-j701fds.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_j7_nxt-8785.php,0,1,1,0,0,46000
+123,Samsung Galaxy J5,0,143,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j5-sm-j500f.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_j5-7184.php,1,1,1,0,0,20000
+124,Samsung Guru Plus ,0,17,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-guru-plus.jpg,1.5000,https://www.gsmarena.com/samsung_guru_plus_-7794.php,0,1,1,0,0,0
+125,Samsung Metro 360,0,44,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-metro-360.jpg,2.4000,https://www.gsmarena.com/samsung_metro_360-7751.php,0,1,1,0,0,0
+126,Samsung Xcover 550,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-xcover-3.jpg,2.4000,https://www.gsmarena.com/samsung_xcover_550-7119.php,0,1,0,0,0,0
+127,Samsung Galaxy S6 active,109,339,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-active.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s6_active-7114.php,1,1,0,1,0,79000
+128,Samsung Galaxy Xcover 3,0,196,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover-3-new.jpg,4.5000,https://www.gsmarena.com/samsung_galaxy_xcover_3-6990.php,1,1,0,0,0,10000
+129,Samsung Galaxy S6 edge (USA),0,446,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge-cdma.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s6_edge_(usa)-7166.php,1,1,0,1,0,0
+130,Samsung Galaxy S6 (USA),0,366,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-cdma.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s6_(usa)-7164.php,1,1,0,1,0,0
+131,Samsung Galaxy S6 edge,73,339,27046,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php,1,1,0,1,82,0
+132,Samsung Galaxy S6 Duos,0,357,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s6_duos-7377.php,1,1,1,1,0,0
+133,Samsung Galaxy S6,73,250,22752,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6.jpg,5.1000,https://www.gsmarena.com/samsung_galaxy_s6-6849.php,1,1,1,1,0,112000
+134,Samsung Galaxy J1 4G,0,107,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-sm-j100h1.jpg,4.3000,https://www.gsmarena.com/samsung_galaxy_j1_4g-7034.php,1,1,1,0,0,0
+135,Samsung Galaxy J1,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j1-sm-j100h1.jpg,4.3000,https://www.gsmarena.com/samsung_galaxy_j1-6907.php,0,1,1,0,0,12000
+136,Samsung Galaxy J2,67,134,1683,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2.jpg,4.7000,https://www.gsmarena.com/samsung_galaxy_j2-7357.php,1,1,1,0,0,21000
+137,Samsung Z1,0,71,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-z-1.jpg,4.0000,https://www.gsmarena.com/samsung_z1-6894.php,0,1,1,0,0,0
+138,Samsung Galaxy A7 Duos,83,268,4802,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-a7.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_a7_duos-7132.php,1,1,1,0,0,0
+139,Samsung Galaxy A7,83,268,4802,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-a7.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_a7-6763.php,1,1,0,0,0,38000
+140,Samsung Galaxy Grand Max,0,232,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-grand-max.jpg,5.2500,https://www.gsmarena.com/samsung_galaxy_grand_max-6905.php,0,1,0,0,0,0
+141,Samsung Galaxy E7,76,205,1915,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-e7.jpg,5.5000,https://www.gsmarena.com/samsung_galaxy_e7-6879.php,1,1,1,0,0,21000
+142,Samsung Galaxy E5,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-e5.jpg,5.0000,https://www.gsmarena.com/samsung_galaxy_e5-6906.php,0,1,1,0,0,21000
+143,Apple iPhone XS Max,79,1117,0,2018,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg,6.5000,https://www.gsmarena.com/apple_iphone_xs_max-9319.php,1,1,1,0,105,354000
+144,Apple iPhone XS,72,1027,0,2018,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg,5.8000,https://www.gsmarena.com/apple_iphone_xs-9318.php,1,1,0,0,0,356000
+145,Apple iPhone XR,78,759,0,2018,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg,6.1000,https://www.gsmarena.com/apple_iphone_xr-9320.php,1,1,1,0,101,346000
+146,Apple iPhone X,74,893,0,2017,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg,5.8000,https://www.gsmarena.com/apple_iphone_x-8858.php,1,1,0,0,97,245000
+147,Apple iPhone 8 Plus,81,688,0,2017,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-8-plus-new.jpg,5.5000,https://www.gsmarena.com/apple_iphone_8_plus-8131.php,1,1,0,0,94,232000
+148,Apple iPhone 8,66,625,0,2017,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-8-new.jpg,4.7000,https://www.gsmarena.com/apple_iphone_8-8573.php,1,1,0,0,92,232000
+149,Apple iPhone 7 Plus,75,616,0,2016,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg,5.5000,https://www.gsmarena.com/apple_iphone_7_plus-8065.php,1,1,0,0,88,181000
+150,Apple iPhone 7,61,491,0,2016,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-7r4.jpg,4.7000,https://www.gsmarena.com/apple_iphone_7-8064.php,1,1,0,0,85,178000
+151,Apple iPhone SE,73,268,0,2016,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-5se-ofic.jpg,4.0000,https://www.gsmarena.com/apple_iphone_se-7969.php,1,1,0,0,0,131000
+152,Apple iPhone 6s Plus,85,420,0,2015,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg,5.5000,https://www.gsmarena.com/apple_iphone_6s_plus-7243.php,1,1,0,0,0,151000
+153,Apple iPhone 6s,62,446,0,2015,https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6s1.jpg,4.7000,https://www.gsmarena.com/apple_iphone_6s-7242.php,1,1,0,0,0,151000
+154,Huawei Mate 20 X (5G),0,893,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20x-.jpg,7.2000,https://www.gsmarena.com/huawei_mate_20_x_(5g)-9705.php,1,1,1,1,0,0
+155,Huawei P Smart Z,0,250,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-z-.jpg,6.5900,https://www.gsmarena.com/huawei_p_smart_z-9694.php,1,1,1,0,0,138000
+156,Huawei P30 Pro,100,786,45889,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-p30-pro.jpg,6.4700,https://www.gsmarena.com/huawei_p30_pro-9635.php,1,1,1,1,112,309000
+157,Huawei P30,83,607,44948,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-p30.jpg,6.1000,https://www.gsmarena.com/huawei_p30-9530.php,1,1,1,0,0,309000
+158,Huawei P30 lite,94,259,20560,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-p30-lite-.jpg,6.1500,https://www.gsmarena.com/huawei_p30_lite-9545.php,1,1,1,0,0,138000
+159,Huawei nova 4e,0,241,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-4e-.jpg,6.1500,https://www.gsmarena.com/huawei_nova_4e-9627.php,0,1,1,0,0,138000
+160,Huawei Y5 (2019),0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y5-2019.jpg,5.7100,https://www.gsmarena.com/huawei_y5_(2019)-9675.php,1,1,1,0,0,0
+161,Huawei Enjoy 9e,0,107,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2019-.jpg,6.0900,https://www.gsmarena.com/huawei_enjoy_9e-9645.php,0,1,1,0,0,55000
+162,Huawei Enjoy 9s,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-plus-2019-starlight-blue.jpg,6.2100,https://www.gsmarena.com/huawei_enjoy_9s-9644.php,0,1,1,0,0,138000
+163,Huawei Y Max,0,250,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y-max-ars-l22.jpg,7.1200,https://www.gsmarena.com/huawei_y_max-9643.php,0,1,1,0,0,0
+164,Huawei Mate X,0,2055,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-x-.jpg,8.0000,https://www.gsmarena.com/huawei_mate_x-9605.php,1,1,1,1,0,305000
+165,Huawei Y6 Pro (2019),0,107,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-pro-2019-.jpg,6.0900,https://www.gsmarena.com/huawei_y6_pro_(2019)-9576.php,0,1,1,0,0,0
+166,Huawei Y6 (2019),0,134,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2019-.jpg,6.0900,https://www.gsmarena.com/huawei_y6_(2019)-9620.php,0,1,1,0,0,0
+167,Huawei Y7 (2019),0,134,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y7-prime-2019.jpg,6.2600,https://www.gsmarena.com/huawei_y7_(2019)-9625.php,0,1,1,0,0,0
+168,Huawei Y7 Prime (2019),0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y7-prime-2019.jpg,6.2600,https://www.gsmarena.com/huawei_y7_prime_(2019)-9531.php,0,1,1,0,0,0
+169,Huawei Y7 Pro (2019),0,160,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-y7-pro-2019-.jpg,6.2600,https://www.gsmarena.com/huawei_y7_pro_(2019)-9500.php,1,1,1,0,0,0
+170,Huawei Y5 lite (2018),0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y5-prime-2018-.jpg,5.4500,https://www.gsmarena.com/huawei_y5_lite_(2018)-9501.php,0,1,1,0,0,0
+171,Huawei nova 4,0,429,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-4-.jpg,6.4000,https://www.gsmarena.com/huawei_nova_4-9481.php,0,1,1,0,0,209000
+172,Huawei P smart 2019,88,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-2019.jpg,6.2100,https://www.gsmarena.com/huawei_p_smart_2019-9409.php,1,1,1,0,0,138000
+173,Huawei Enjoy 9,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-enjoy-9.jpg,6.2600,https://www.gsmarena.com/huawei_enjoy_9-9466.php,0,1,1,0,0,57000
+174,Huawei Mate 20 RS Porsche Design,0,1430,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20-rs-porsche-design-red.jpg,6.3900,https://www.gsmarena.com/huawei_mate_20_rs_porsche_design-9368.php,1,1,1,1,0,313000
+175,Huawei Mate 20 X,108,715,45335,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20x-.jpg,7.2000,https://www.gsmarena.com/huawei_mate_20_x-9369.php,1,1,1,1,0,0
+176,Huawei Mate 20 Pro,85,786,40269,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20-pro-1.jpg,6.3900,https://www.gsmarena.com/huawei_mate_20_pro-9343.php,1,1,1,1,109,313000
+177,Huawei Mate 20,92,572,43822,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20-.jpg,6.5300,https://www.gsmarena.com/huawei_mate_20-9367.php,1,1,1,1,0,313000
+178,Huawei Y9 (2019),0,196,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y9-2019-.jpg,6.5000,https://www.gsmarena.com/huawei_y9_(2019)-9324.php,0,1,1,0,0,0
+179,Huawei Mate 20 lite,97,268,20444,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-20-lite-r1.jpg,6.3000,https://www.gsmarena.com/huawei_mate_20_lite-9284.php,1,1,1,0,0,138000
+180,Huawei P Smart plus 2019,0,312,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-plus-2019-starlight-blue.jpg,6.2100,https://www.gsmarena.com/huawei_p_smart+_2019-9272.php,0,1,1,0,0,138000
+181,Huawei nova 3i,0,196,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-3i.jpg,6.3000,https://www.gsmarena.com/huawei_nova_3i-9632.php,0,1,1,0,0,138000
+182,Huawei nova 3,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova3.jpg,6.3000,https://www.gsmarena.com/huawei_nova_3-9267.php,1,1,1,0,0,213000
+183,Huawei Y5 Prime (2018),0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y5-prime-2018-.jpg,5.4500,https://www.gsmarena.com/huawei_y5_prime_(2018)-9209.php,0,1,1,0,0,0
+184,Huawei Y3 (2018),0,80,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y3-2018.jpg,5.0000,https://www.gsmarena.com/huawei_y3_(2018)-9196.php,0,1,1,0,0,0
+185,Huawei Y6 Prime (2018),0,125,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-prime-2018.jpg,5.7000,https://www.gsmarena.com/huawei_y6_prime_(2018)-9502.php,1,1,1,0,0,0
+186,Huawei Y6 (2018),0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg,5.7000,https://www.gsmarena.com/huawei_y6_(2018)-9162.php,1,1,1,0,0,0
+187,Huawei Mate RS Porsche Design,0,1162,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-rs-porsche-design-1.jpg,6.0000,https://www.gsmarena.com/huawei_mate_rs_porsche_design-9141.php,1,1,1,1,0,0
+188,Huawei P20 Pro,89,554,39945,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-p20-pro-.jpg,6.1000,https://www.gsmarena.com/huawei_p20_pro-9106.php,1,1,1,1,109,211000
+189,Huawei P20,75,393,37659,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-p20-.jpg,5.8000,https://www.gsmarena.com/huawei_p20-9107.php,1,1,1,0,102,213000
+190,Huawei P20 lite,77,196,9090,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-p20-lite-.jpg,5.8400,https://www.gsmarena.com/huawei_p20_lite-9098.php,1,1,1,0,0,87000
+191,Huawei Y7 Pro (2018),0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y7-pro-2018-.jpg,5.9900,https://www.gsmarena.com/huawei_y7_pro_(2018)-9188.php,0,1,1,0,0,0
+192,Huawei Y7 Prime (2018),63,151,7582,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y7-prime-2018.jpg,5.9900,https://www.gsmarena.com/huawei_y7_prime_(2018)-9114.php,1,1,1,0,0,0
+193,Huawei Y7 (2018),0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y7-prime-2018.jpg,5.9900,https://www.gsmarena.com/huawei_y7_(2018)-9265.php,1,1,1,0,0,0
+194,Huawei Y9 (2018),0,196,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-y9-2018-.jpg,5.9300,https://www.gsmarena.com/huawei_y9_(2018)-9112.php,0,1,1,0,0,0
+195,Huawei P smart,73,151,8834,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-p-smart-.jpg,5.6500,https://www.gsmarena.com/huawei_p_smart-8961.php,1,1,1,0,0,87000
+196,Huawei nova 2s,0,268,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-2s.jpg,6.0000,https://www.gsmarena.com/huawei_nova_2s-8943.php,1,1,1,0,0,184000
+197,Huawei Mate 10 Porsche Design,0,1072,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate10-porshe-design-.jpg,6.0000,https://www.gsmarena.com/huawei_mate_10_porsche_design-8899.php,1,1,1,1,0,213000
+198,Huawei Mate 10 Pro,96,357,40232,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate10-pro.jpg,6.0000,https://www.gsmarena.com/huawei_mate_10_pro-8854.php,1,1,1,1,97,213000
+199,Huawei Mate 10,87,393,40809,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate10-.jpg,5.9000,https://www.gsmarena.com/huawei_mate_10-8877.php,1,1,1,1,0,211000
+200,Huawei Mate 10 Lite,76,178,8721,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-10-lite.jpg,5.9000,https://www.gsmarena.com/huawei_mate_10_lite-8857.php,0,1,1,0,0,87000
+201,Huawei P9 lite mini,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-pro-2017-p9-lite-mini.jpg,5.0000,https://www.gsmarena.com/huawei_p9_lite_mini-8833.php,0,1,1,0,0,31000
+202,Huawei Y7 Prime,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-enjoy-7-plus-new.jpg,5.5000,https://www.gsmarena.com/huawei_y7_prime-8632.php,0,1,1,0,0,43000
+203,Huawei nova 2 plus,0,312,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-2-plus.jpg,5.5000,https://www.gsmarena.com/huawei_nova_2_plus-8703.php,0,1,1,0,0,74000
+204,Huawei nova 2,0,268,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-2.jpg,5.0000,https://www.gsmarena.com/huawei_nova_2-8672.php,0,1,1,0,0,74000
+205,Huawei Y6II Compact,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-ii-compact.jpg,5.0000,https://www.gsmarena.com/huawei_y6ii_compact-8663.php,0,1,1,0,0,24000
+206,Huawei Y7,0,143,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-y71.jpg,5.5000,https://www.gsmarena.com/huawei_y7-8687.php,0,1,1,0,0,43000
+207,Huawei Y6 (2017),0,125,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2017.jpg,5.0000,https://www.gsmarena.com/huawei_y6_(2017)-8695.php,1,1,1,0,0,0
+208,Huawei Y5 (2017),0,107,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-y5-2017.jpg,5.0000,https://www.gsmarena.com/huawei_y5_(2017)-8640.php,0,1,1,0,0,0
+209,Huawei Y3 (2017),0,80,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-y3-2017-.jpg,5.0000,https://www.gsmarena.com/huawei_y3_(2017)-8686.php,0,1,1,0,0,0
+210,Huawei P10 Plus,76,402,30602,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-p10-plus-r1.jpg,5.5000,https://www.gsmarena.com/huawei_p10_plus-8515.php,1,1,1,1,0,164000
+211,Huawei P10,75,294,39433,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-p10-.jpg,5.1000,https://www.gsmarena.com/huawei_p10-8514.php,1,1,1,0,0,167000
+212,Huawei P10 Lite,62,205,7588,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-p10-lite.jpg,5.2000,https://www.gsmarena.com/huawei_p10_lite-8598.php,1,1,1,0,0,85000
+213,Huawei P8 Lite (2017),0,151,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-p8-lite-2017.jpg,5.2000,https://www.gsmarena.com/huawei_p8_lite_(2017)-8516.php,1,1,1,0,0,0
+214,Huawei Enjoy 6s,0,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-enjoy-6s.jpg,5.0000,https://www.gsmarena.com/huawei_enjoy_6s-8458.php,0,1,1,0,0,40000
+215,Huawei Mate 9 Pro,87,357,27600,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-9-pro.jpg,5.5000,https://www.gsmarena.com/huawei_mate_9_pro-8396.php,1,1,1,1,0,171000
+216,Huawei Mate 9 Porsche Design,0,822,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-9-porshe-.jpg,5.5000,https://www.gsmarena.com/huawei_mate_9_porsche_design-8415.php,1,1,1,1,0,171000
+217,Huawei Mate 9,82,357,36519,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-9.jpg,5.9000,https://www.gsmarena.com/huawei_mate_9-8073.php,1,1,1,1,0,171000
+218,Huawei Fit,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-fit.jpg,1.0400,https://www.gsmarena.com/huawei_fit-8411.php,0,1,0,0,0,0
+219,Huawei Enjoy 6,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-enjoy-6.jpg,5.0000,https://www.gsmarena.com/huawei_enjoy_6-8402.php,0,1,1,0,0,36000
+220,Huawei nova plus,79,312,10524,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova-plus.jpg,5.5000,https://www.gsmarena.com/huawei_nova_plus-8312.php,1,1,1,0,0,60000
+221,Huawei nova,84,268,10511,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-nova.jpg,5.0000,https://www.gsmarena.com/huawei_nova-8284.php,1,1,1,0,0,77000
+222,Huawei G9 Plus,0,250,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-g9-plus.jpg,5.5000,https://www.gsmarena.com/huawei_g9_plus-8285.php,0,1,1,0,0,60000
+223,Huawei Y3II,0,71,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-y3-2.jpg,4.5000,https://www.gsmarena.com/huawei_y3ii-8037.php,0,1,1,0,0,0
+224,Huawei Y5II,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-y5-2.jpg,5.0000,https://www.gsmarena.com/huawei_y5ii-8036.php,0,1,1,0,0,0
+225,Huawei P9 lite,79,187,7681,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-p9-lite-r1.jpg,5.2000,https://www.gsmarena.com/huawei_p9_lite-7983.php,1,1,1,0,0,52000
+226,Huawei P9 Plus,69,384,15058,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-p9-plus.jpg,5.5000,https://www.gsmarena.com/huawei_p9_plus-7745.php,1,1,1,1,0,98000
+227,Huawei P9,75,303,16942,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-p9r2.jpg,5.2000,https://www.gsmarena.com/huawei_p9-7972.php,1,1,1,0,0,128000
+228,Huawei Enjoy 5s,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-enjoy-5s.jpg,5.0000,https://www.gsmarena.com/huawei_enjoy_5s-7793.php,0,1,1,0,0,29000
+229,Huawei Mate 8,103,268,15593,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-8r1.jpg,6.0000,https://www.gsmarena.com/huawei_mate_8-7239.php,1,1,1,0,0,126000
+230,Huawei G7 Plus,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-g7-plus.jpg,5.5000,https://www.gsmarena.com/huawei_g7_plus-7744.php,0,1,1,0,0,0
+231,Huawei Y6 Pro,0,169,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-enjoy-5.jpg,5.0000,https://www.gsmarena.com/huawei_y6_pro-7647.php,0,1,1,0,0,26000
+232,Huawei Nexus 6P,74,268,22825,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-nexus-6p-.jpg,5.7000,https://www.gsmarena.com/huawei_nexus_6p-7588.php,1,1,0,0,0,83000
+233,Huawei Mate S,60,312,5368,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-mate-s--.jpg,5.5000,https://www.gsmarena.com/huawei_mate_s-7533.php,1,1,1,0,0,47000
+234,Huawei Y6,0,80,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-4a.jpg,5.0000,https://www.gsmarena.com/huawei_y6-7440.php,0,1,1,0,0,17000
+235,Huawei G8,71,294,5147,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-g8-.jpg,5.5000,https://www.gsmarena.com/huawei_g8-7513.php,1,1,1,0,0,36000
+236,Huawei Y560,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-y560.jpg,4.5000,https://www.gsmarena.com/huawei_y560-7829.php,0,1,1,0,0,0
+237,Huawei Y625,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-y625.jpg,5.0000,https://www.gsmarena.com/huawei_y625-7206.php,0,1,1,0,0,12000
+238,Huawei P8lite ALE-L04,61,160,5062,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-p8-lite1.jpg,5.0000,https://www.gsmarena.com/huawei_p8lite_ale_l04-7279.php,0,1,1,0,0,0
+239,Huawei P8lite,53,151,3648,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-p8-lite1.jpg,5.0000,https://www.gsmarena.com/huawei_p8lite-7201.php,1,1,1,0,0,0
+240,Huawei P8max,0,357,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-p8-max.jpg,6.8000,https://www.gsmarena.com/huawei_p8max-7200.php,0,1,1,0,0,0
+241,Huawei P8,64,205,6307,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-p8.jpg,5.2000,https://www.gsmarena.com/huawei_p8-7006.php,1,1,1,0,0,43000
+242,Huawei SnapTo,0,151,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-snapto1.jpg,5.0000,https://www.gsmarena.com/huawei_snapto-7187.php,0,1,0,0,0,0
+243,Huawei Y635,0,125,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-y635-0.jpg,5.0000,https://www.gsmarena.com/huawei_y635-7076.php,0,1,1,0,0,21000
+244,Huawei Y360,0,80,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-y360-.jpg,4.0000,https://www.gsmarena.com/huawei_y360-7077.php,0,1,1,0,0,0
+245,Huawei Ascend Y540,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-y540.jpg,4.5000,https://www.gsmarena.com/huawei_ascend_y540-7049.php,0,1,0,0,0,13000
+246,Nokia X71,0,259,0,2019,https://cdn2.gsmarena.com/vv/bigpic/nokia-x71.jpg,6.3900,https://www.gsmarena.com/nokia_x71-9652.php,0,1,1,0,0,142000
+247,Nokia 9 PureView,79,554,43718,2019,https://cdn2.gsmarena.com/vv/bigpic/nokia-9-pureview-.jpg,5.9900,https://www.gsmarena.com/nokia_9_pureview-8867.php,1,1,1,0,0,0
+248,Nokia 4.2,0,134,0,2019,https://cdn2.gsmarena.com/vv/bigpic/nokia-42.jpg,5.7100,https://www.gsmarena.com/nokia_4_2-9603.php,1,1,1,0,0,0
+249,Nokia 3.2,0,143,0,2019,https://cdn2.gsmarena.com/vv/bigpic/nokia-32.jpg,6.2600,https://www.gsmarena.com/nokia_3_2-9604.php,0,1,1,0,0,0
+250,Nokia 1 Plus,0,80,0,2019,https://cdn2.gsmarena.com/vv/bigpic/nokia-1-plus.jpg,5.4500,https://www.gsmarena.com/nokia_1_plus-9538.php,0,1,1,0,0,35000
+251,Nokia 210,0,26,0,2019,https://cdn2.gsmarena.com/vv/bigpic/nokia-210-2019.jpg,2.4000,https://www.gsmarena.com/nokia_210-9606.php,0,1,1,0,0,0
+252,Nokia 8.1 (Nokia X7),0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-81-r.jpg,6.1800,https://www.gsmarena.com/nokia_8_1_(nokia_x7)-9342.php,1,1,1,0,0,0
+253,Nokia 106 (2018),0,17,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-106-2018-.jpg,1.8000,https://www.gsmarena.com/nokia_106_(2018)-9405.php,0,1,1,0,0,0
+254,Nokia 3.1 Plus,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-31-plus-.jpg,6.0000,https://www.gsmarena.com/nokia_3_1_plus-9364.php,1,1,1,0,0,0
+255,Nokia 7.1,80,294,14963,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-71-plus.jpg,5.8400,https://www.gsmarena.com/nokia_7_1-9354.php,1,1,1,0,0,0
+256,Nokia 6.1 Plus (Nokia X6),0,223,14903,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-61-plus.jpg,5.8000,https://www.gsmarena.com/nokia_6_1_plus_(nokia_x6)-9178.php,0,1,1,0,0,0
+257,Nokia 5.1 Plus (Nokia X5),0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-x5-51-plus.jpg,5.8600,https://www.gsmarena.com/nokia_5_1_plus_(nokia_x5)-9246.php,0,1,1,0,0,0
+258,Nokia 5.1,0,160,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-51.jpg,5.5000,https://www.gsmarena.com/nokia_5_1-9214.php,1,1,1,0,0,0
+259,Nokia 3.1,56,134,4984,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-31.jpg,5.2000,https://www.gsmarena.com/nokia_3_1-9215.php,1,1,1,0,0,0
+260,Nokia 2.1,0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-21-.jpg,5.5000,https://www.gsmarena.com/nokia_2_1-9216.php,0,1,1,0,0,0
+261,Nokia 8110 4G,0,80,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-8110-4g-.jpg,2.4000,https://www.gsmarena.com/nokia_8110_4g-9089.php,0,1,1,0,0,0
+262,Nokia 8 Sirocco,77,491,38476,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-8-sirocco-.jpg,5.5000,https://www.gsmarena.com/nokia_8_sirocco-9087.php,1,1,1,0,84,207000
+263,Nokia 7 plus,87,250,21063,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-7-plus-.jpg,6.0000,https://www.gsmarena.com/nokia_7_plus-9058.php,1,1,1,0,0,141000
+264,Nokia 6.1,76,205,14365,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-6-2018.jpg,5.5000,https://www.gsmarena.com/nokia_6_1-8972.php,1,1,1,0,0,0
+265,Nokia 1,0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-1-.jpg,4.5000,https://www.gsmarena.com/nokia_1-9052.php,0,1,1,0,0,21000
+266,Nokia 3310 4G,0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-4g.jpg,2.4000,https://www.gsmarena.com/nokia_3310_4g-9046.php,0,1,0,0,0,0
+267,Nokia 2,109,98,2220,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia2-.jpg,5.0000,https://www.gsmarena.com/nokia_2-8513.php,0,1,1,0,0,9000
+268,Nokia 7,0,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-7-.jpg,5.2000,https://www.gsmarena.com/nokia_7-8907.php,1,1,1,0,0,71000
+269,Nokia 3310 3G,0,62,0,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-1.jpg,2.4000,https://www.gsmarena.com/nokia_3310_3g-8876.php,0,1,1,0,0,0
+270,Nokia 8,78,294,37593,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-8-.jpg,5.3000,https://www.gsmarena.com/nokia_8-8522.php,1,1,1,0,0,207000
+271,Nokia 105 (2017),0,17,0,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-105-2017.jpg,1.8000,https://www.gsmarena.com/nokia_105_(2017)-8770.php,0,1,1,0,0,0
+272,Nokia 130 (2017),0,26,0,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-130-2017.jpg,1.8000,https://www.gsmarena.com/nokia_130_(2017)-8769.php,0,1,1,0,0,0
+273,Nokia 3,53,116,2210,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-3.jpg,5.0000,https://www.gsmarena.com/nokia_3-8572.php,1,1,1,0,0,26000
+274,Nokia 5,84,125,7316,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-5n.jpg,5.2000,https://www.gsmarena.com/nokia_5-8571.php,1,1,1,0,0,40000
+275,Nokia 6,62,143,7516,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-6.jpg,5.5000,https://www.gsmarena.com/nokia_6-6885.php,1,1,1,0,0,43000
+276,Nokia 3310 (2017),0,53,0,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-orig.jpg,2.4000,https://www.gsmarena.com/nokia_3310_(2017)-8597.php,0,1,1,0,0,0
+277,Nokia 150,0,26,0,2017,https://cdn2.gsmarena.com/vv/bigpic/nokia-150-.jpg,2.4000,https://www.gsmarena.com/nokia_150-8475.php,0,1,1,0,0,0
+278,Nokia 216,0,35,0,2016,https://cdn2.gsmarena.com/vv/bigpic/nokia-216-new.jpg,2.4000,https://www.gsmarena.com/nokia_216-8343.php,0,1,1,0,0,0
+279,Nokia 230 Dual SIM,0,62,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-230-ds.jpg,2.8000,https://www.gsmarena.com/nokia_230_dual_sim-7772.php,0,1,1,0,0,0
+280,Nokia 230,0,62,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-230-.jpg,2.8000,https://www.gsmarena.com/nokia_230-7771.php,0,1,0,0,0,0
+281,Nokia 222 Dual SIM,0,35,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-222-ds.jpg,2.4000,https://www.gsmarena.com/nokia_222_dual_sim-7517.php,0,1,1,0,0,0
+282,Nokia 222,0,35,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-222.jpg,2.4000,https://www.gsmarena.com/nokia_222-7516.php,0,1,0,0,0,0
+283,Nokia 105 Dual SIM (2015),0,17,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-105-ds-2015.jpg,1.4000,https://www.gsmarena.com/nokia_105_dual_sim_(2015)-7272.php,0,1,1,0,0,0
+284,Nokia 105 (2015),0,17,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-105-2015.jpg,1.4000,https://www.gsmarena.com/nokia_105_(2015)-7271.php,0,1,1,0,0,0
+285,Nokia 215,0,26,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-215-1.jpg,2.4000,https://www.gsmarena.com/nokia_215-6910.php,0,1,0,0,0,0
+286,Nokia 215 Dual SIM,0,26,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-215-ds.jpg,2.4000,https://www.gsmarena.com/nokia_215_dual_sim-6911.php,0,1,1,0,0,0
+287,Nokia N1,0,286,0,2015,https://cdn2.gsmarena.com/vv/bigpic/nokia-n1.jpg,7.9000,https://www.gsmarena.com/nokia_n1-6814.php,0,1,0,0,0,0
+288,LG V50 ThinQ 5G,0,849,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-gv50-thinq-.jpg,6.4000,https://www.gsmarena.com/lg_v50_thinq_5g-9607.php,1,1,1,0,0,0
+289,LG G8s ThinQ,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-g8s-thinq-.jpg,6.2000,https://www.gsmarena.com/lg_g8s_thinq-9608.php,1,1,1,0,0,0
+290,LG G8 ThinQ,79,554,44602,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-g8-thinq-r1.jpg,6.1000,https://www.gsmarena.com/lg_g8_thinq-9540.php,1,1,1,0,96,371000
+291,LG Q60,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-q60-.jpg,6.2600,https://www.gsmarena.com/lg_q60-9585.php,0,1,1,0,0,75000
+292,LG K50,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-k50-.jpg,6.2600,https://www.gsmarena.com/lg_k50-9586.php,0,1,1,0,0,0
+293,LG K40,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-k40-.jpg,5.7000,https://www.gsmarena.com/lg_k40-9587.php,0,1,1,0,0,75000
+294,LG Q9,0,357,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-q9-.jpg,6.1000,https://www.gsmarena.com/lg_q9-9411.php,1,1,1,0,0,165000
+295,LG V40 ThinQ,64,715,44260,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-v40-carmine-red.jpg,6.4000,https://www.gsmarena.com/lg_v40_thinq-9300.php,1,1,1,0,94,275000
+296,LG Tribute Empire,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/lg-tribute-empire.jpg,5.0000,https://www.gsmarena.com/lg_tribute_empire-9544.php,0,1,0,0,0,0
+297,LG Candy,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-zone4.jpg,5.0000,https://www.gsmarena.com/lg_candy-9309.php,0,1,1,0,0,0
+298,LG G7 Fit,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-g7-fit.jpg,6.1000,https://www.gsmarena.com/lg_g7_fit-9305.php,1,1,1,0,0,156000
+299,LG G7 One,0,446,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-g7-one.jpg,6.1000,https://www.gsmarena.com/lg_g7_one-9304.php,1,1,1,0,0,170000
+300,LG Q8,0,375,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-q8-2018-.jpg,6.2000,https://www.gsmarena.com/lg_q8-9285.php,1,1,1,0,0,125000
+301,LG K11 Plus,0,241,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-k11-plus.jpg,5.3000,https://www.gsmarena.com/lg_k11_plus-9278.php,0,1,1,0,0,49000
+302,LG Q Stylo 4,0,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-stylo-4-q710ms.jpg,6.2000,https://www.gsmarena.com/lg_q_stylo_4-9251.php,1,1,0,0,0,0
+303,LG Q Stylus,0,268,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-q-.jpg,6.2000,https://www.gsmarena.com/lg_q_stylus-9228.php,1,1,1,0,0,65000
+304,LG V35 ThinQ,0,625,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-v35-.jpg,6.0000,https://www.gsmarena.com/lg_v35_thinq-9191.php,1,1,0,0,0,270000
+305,LG Q7,0,160,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-q7-.jpg,5.5000,https://www.gsmarena.com/lg_q7-9206.php,1,1,1,0,0,58000
+306,LG G7 ThinQ,77,366,43833,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-g7-thinq-.jpg,6.1000,https://www.gsmarena.com/lg_g7_thinq-9115.php,1,1,1,0,83,250000
+307,LG V30S ThinQ,0,581,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-v30s-thinq.jpg,6.0000,https://www.gsmarena.com/lg_v30s_thinq-9090.php,1,1,1,0,0,0
+308,LG Zone 4,0,120,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-zone4.jpg,5.0000,https://www.gsmarena.com/lg_zone_4-9122.php,0,1,0,0,0,0
+309,LG K30,0,230,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-k30-.jpg,5.3000,https://www.gsmarena.com/lg_k30-9190.php,1,1,0,0,0,0
+310,LG K10 (2018),0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-k10-2018-.jpg,5.3000,https://www.gsmarena.com/lg_k10_(2018)-9074.php,1,1,1,0,0,0
+311,LG K8 (2018),0,125,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-k8-2018-.jpg,5.0000,https://www.gsmarena.com/lg_k8_(2018)-9073.php,0,1,1,0,0,0
+312,LG Aristo 2,0,60,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-aristo2.jpg,5.0000,https://www.gsmarena.com/lg_aristo_2-9047.php,0,1,0,0,0,0
+313,LG X4 plus,0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/lg-k10-2017.jpg,5.3000,https://www.gsmarena.com/lg_x4+-9006.php,1,1,1,0,0,0
+314,LG V30,93,375,36704,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-v30-.jpg,6.0000,https://www.gsmarena.com/lg_v30-8712.php,1,1,1,0,82,160000
+315,LG Q8 (2017),0,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-q8-.jpg,5.2000,https://www.gsmarena.com/lg_q8_(2017)-8781.php,1,1,1,1,0,0
+316,LG Q6,69,134,6336,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-q6.jpg,5.5000,https://www.gsmarena.com/lg_q6-8756.php,1,1,1,0,0,45000
+317,LG X venture,0,250,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-x-venture-.jpg,5.2000,https://www.gsmarena.com/lg_x_venture-8696.php,1,1,0,0,0,0
+318,LG G6,72,241,30507,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-g6-new.jpg,5.7000,https://www.gsmarena.com/lg_g6-8466.php,1,1,1,0,0,156000
+319,LG X power2,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-x-power2.jpg,5.5000,https://www.gsmarena.com/lg_x_power2-8584.php,0,1,1,0,0,45000
+320,LG Stylo 3 Plus,0,232,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-stylo-3-plus.jpg,5.7000,https://www.gsmarena.com/lg_stylo_3_plus-8694.php,1,1,0,0,0,0
+321,LG Stylus 3,0,178,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-stylus-3-.jpg,5.7000,https://www.gsmarena.com/lg_stylus_3-8492.php,1,1,1,0,0,39000
+322,LG Harmony,0,80,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-harmony.jpg,5.3000,https://www.gsmarena.com/lg_harmony-8679.php,0,1,0,0,0,0
+323,LG K20 plus,0,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-k20-plus.jpg,5.3000,https://www.gsmarena.com/lg_k20_plus-8678.php,0,1,0,0,0,0
+324,LG K10 (2017),0,187,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-k10-2017.jpg,5.3000,https://www.gsmarena.com/lg_k10_(2017)-8491.php,1,1,1,0,0,0
+325,LG K8 (2017),0,143,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-k8-2017.jpg,5.0000,https://www.gsmarena.com/lg_k8_(2017)-8490.php,1,1,1,0,0,0
+326,LG K7 (2017),0,89,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-k7-2017.jpg,5.0000,https://www.gsmarena.com/lg_k7_(2017)-8817.php,0,1,1,0,0,0
+327,LG K4 (2017),0,107,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-k4-2017.jpg,5.0000,https://www.gsmarena.com/lg_k4_(2017)-8489.php,0,1,1,0,0,0
+328,LG K3 (2017),0,89,0,2017,https://cdn2.gsmarena.com/vv/bigpic/lg-k3-2017.jpg,4.5000,https://www.gsmarena.com/lg_k3_(2017)-8488.php,0,1,1,0,0,0
+329,LG U,0,0,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-u.jpg,5.2000,https://www.gsmarena.com/lg_u-8403.php,0,1,0,0,0,0
+330,LG V20,68,312,29385,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-v20-ofic1.jpg,5.7000,https://www.gsmarena.com/lg_v20-8238.php,1,1,1,1,0,144000
+331,LG X Skin,0,160,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-skin.jpg,5.0000,https://www.gsmarena.com/lg_x_skin-8184.php,1,1,0,0,0,0
+332,LG X5,0,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x5.jpg,5.5000,https://www.gsmarena.com/lg_x5-8183.php,1,1,0,0,0,0
+333,LG X max,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-max.jpg,5.5000,https://www.gsmarena.com/lg_x_max-8159.php,0,1,0,0,0,0
+334,LG X mach,0,214,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-mach.jpg,5.5000,https://www.gsmarena.com/lg_x_mach-8158.php,1,1,1,0,0,52000
+335,LG X power,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-power.jpg,5.3000,https://www.gsmarena.com/lg_x_power-8133.php,0,1,1,0,0,31000
+336,LG X style,0,62,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-style.jpg,5.0000,https://www.gsmarena.com/lg_x_style-8132.php,0,1,1,0,0,0
+337,LG Stylus 2 Plus,0,160,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-stylus-2-plus-.jpg,5.7000,https://www.gsmarena.com/lg_stylus_2_plus-8079.php,1,1,1,0,0,0
+338,LG Stylo 2,0,134,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-stylo2-1.jpg,5.7000,https://www.gsmarena.com/lg_stylo_2-8085.php,0,1,0,0,0,0
+339,LG K5,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-k5-.jpg,5.0000,https://www.gsmarena.com/lg_k5-7980.php,0,1,1,0,0,18000
+340,LG K3,0,89,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-k3.jpg,4.5000,https://www.gsmarena.com/lg_k3-8269.php,0,1,1,0,0,13000
+341,LG G5 SE,0,312,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-g5.jpg,5.3000,https://www.gsmarena.com/lg_g5_se-8056.php,1,1,1,1,0,79000
+342,LG G5,60,268,27577,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-g5.jpg,5.3000,https://www.gsmarena.com/lg_g5-7815.php,1,1,1,1,0,151000
+343,LG X cam,0,187,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-cam-k580.jpg,5.2000,https://www.gsmarena.com/lg_x_cam-7977.php,1,1,1,0,0,32000
+344,LG X screen,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-x-screen-.jpg,4.9300,https://www.gsmarena.com/lg_x_screen-7976.php,1,1,1,0,0,17000
+345,LG K8,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-k8-.jpg,5.0000,https://www.gsmarena.com/lg_k8-7927.php,1,1,1,0,0,0
+346,LG Stylus 2,0,151,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-stylus-2-.jpg,5.7000,https://www.gsmarena.com/lg_stylus_2-7926.php,0,1,1,0,0,26000
+347,LG K10,0,151,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-k10.jpg,5.3000,https://www.gsmarena.com/lg_k10-7849.php,1,1,1,0,0,18000
+348,LG K7,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-k7.jpg,5.0000,https://www.gsmarena.com/lg_k7-7848.php,0,1,1,0,0,20000
+349,LG K4,0,89,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-g4.jpg,4.5000,https://www.gsmarena.com/lg_k4-7883.php,0,1,1,0,0,0
+350,LG Ray,0,169,0,2016,https://cdn2.gsmarena.com/vv/bigpic/lg-ray-1.jpg,5.5000,https://www.gsmarena.com/lg_ray-7773.php,0,1,1,0,0,0
+351,LG G Vista 2,0,169,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g-vista-2-.jpg,5.7000,https://www.gsmarena.com/lg_g_vista_2-7675.php,1,1,0,0,0,0
+352,LG V10,56,223,15161,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-v10-new1.jpg,5.7000,https://www.gsmarena.com/lg_v10-7606.php,1,1,1,1,0,59000
+353,LG Nexus 5X,60,241,16609,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-nexus-5x-.jpg,5.2000,https://www.gsmarena.com/lg_nexus_5x-7556.php,1,1,0,0,0,82000
+354,LG Zero,0,169,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-class-f620.jpg,5.0000,https://www.gsmarena.com/lg_zero-7575.php,0,1,0,0,0,21000
+355,LG Wine Smart,0,134,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-wine.jpg,3.2000,https://www.gsmarena.com/lg_wine_smart-7451.php,0,1,0,0,0,21000
+356,LG Tribute 2,0,80,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-tribute-2.jpg,4.5000,https://www.gsmarena.com/lg_tribute_2-7442.php,0,1,0,0,0,0
+357,LG Bello II,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-bello-2.jpg,5.0000,https://www.gsmarena.com/lg_bello_ii-7437.php,0,1,1,0,0,17000
+358,LG G4 Beat,0,143,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g4s-beat.jpg,5.2000,https://www.gsmarena.com/lg_g4_beat-7363.php,1,1,1,0,0,26000
+359,LG G360,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g360.jpg,3.0000,https://www.gsmarena.com/lg_g360-7345.php,0,1,1,0,0,0
+360,LG G350,0,89,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g350.jpg,3.0000,https://www.gsmarena.com/lg_g350-7344.php,0,1,0,0,0,0
+361,LG G4c,0,134,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g4c-1.jpg,5.0000,https://www.gsmarena.com/lg_g4c-7250.php,1,1,0,0,0,23000
+362,LG G4 Dual,0,250,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg,5.5000,https://www.gsmarena.com/lg_g4_dual-7253.php,1,1,1,1,0,0
+363,LG G4,54,268,15040,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg,5.5000,https://www.gsmarena.com/lg_g4-6901.php,1,1,0,1,0,65000
+364,LG G Stylo,0,160,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g-stylo-cdma.jpg,5.7000,https://www.gsmarena.com/lg_g_stylo-7245.php,1,1,0,0,0,0
+365,LG G4 Stylus,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g-stylo-.jpg,5.7000,https://www.gsmarena.com/lg_g4_stylus-7212.php,1,1,1,0,0,21000
+366,LG AKA,73,196,1414,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-aka.jpg,5.0000,https://www.gsmarena.com/lg_aka-7148.php,1,1,0,0,0,0
+367,LG Magna,0,125,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-magna-.jpg,5.0000,https://www.gsmarena.com/lg_magna-7051.php,0,1,1,0,0,17000
+368,LG Spirit,0,107,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-spirit1.jpg,4.7000,https://www.gsmarena.com/lg_spirit-7052.php,1,1,1,0,0,0
+369,LG Leon,0,107,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-leon.jpg,4.5000,https://www.gsmarena.com/lg_leon-7053.php,0,1,1,0,0,24000
+370,LG Joy,0,80,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-joy-.jpg,4.0000,https://www.gsmarena.com/lg_joy-7054.php,0,1,0,0,0,0
+371,LG G Flex2,62,241,0,2015,https://cdn2.gsmarena.com/vv/bigpic/lg-g-flex2.jpg,5.5000,https://www.gsmarena.com/lg_g_flex2-6916.php,1,1,0,1,0,0
+372,HTC Desire 12s,0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-12s-.jpg,5.7000,https://www.gsmarena.com/htc_desire_12s-9487.php,1,1,1,0,0,43000
+373,HTC Exodus 1,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-exodus-.jpg,6.0000,https://www.gsmarena.com/htc_exodus_1-9385.php,0,1,1,0,0,275000
+374,HTC U12 life,0,268,0,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-u12-life.jpg,6.0000,https://www.gsmarena.com/htc_u12_life-9179.php,1,1,1,0,0,115000
+375,HTC U12 plus,64,581,44390,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-u12-plus-.jpg,6.0000,https://www.gsmarena.com/htc_u12+-9119.php,1,1,1,0,0,275000
+376,HTC Desire 12 plus,0,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-12-plus.jpg,6.0000,https://www.gsmarena.com/htc_desire_12+-9102.php,0,1,1,0,0,73000
+377,HTC Desire 12,0,116,0,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-12.jpg,5.5000,https://www.gsmarena.com/htc_desire_12-9071.php,0,1,1,0,0,35000
+378,HTC U11 Eyes,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/htc-u11-eyes-.jpg,6.0000,https://www.gsmarena.com/htc_u11_eyes-8990.php,1,1,1,0,0,85000
+379,HTC U11 plus,73,589,38315,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-u11-plus-.jpg,6.0000,https://www.gsmarena.com/htc_u11+-8908.php,1,1,1,0,0,180000
+380,HTC U11 Life,73,187,14286,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-u11-life-r1.jpg,5.2000,https://www.gsmarena.com/htc_u11_life-8885.php,1,1,1,0,0,71000
+381,HTC U11,73,330,38399,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-u11.jpg,5.5000,https://www.gsmarena.com/htc_u11-8630.php,1,1,1,0,90,214000
+382,HTC One X10,0,178,0,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-one-x10.jpg,5.5000,https://www.gsmarena.com/htc_one_x10-8487.php,0,1,1,0,0,52000
+383,HTC U Ultra,81,223,35875,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-u-ultra.jpg,5.7000,https://www.gsmarena.com/htc_u_ultra-8519.php,1,1,1,0,0,168000
+384,HTC U Play,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-u-play.jpg,5.2000,https://www.gsmarena.com/htc_u_play-8518.php,1,1,1,0,0,49000
+385,HTC 10 evo,58,205,28736,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-10-evo.jpg,5.5000,https://www.gsmarena.com/htc_10_evo-8404.php,1,1,0,0,0,105000
+386,HTC Desire 650,0,151,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-650.jpg,5.0000,https://www.gsmarena.com/htc_desire_650-8444.php,1,1,1,0,0,25000
+387,HTC Desire 10 Pro,0,232,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-10-pro.jpg,5.5000,https://www.gsmarena.com/htc_desire_10_pro-8277.php,1,1,1,0,0,49000
+388,HTC Desire 10 Compact,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-10-compact.jpg,5.0000,https://www.gsmarena.com/htc_desire_10_compact-8884.php,0,1,1,0,0,0
+389,HTC Desire 10 Lifestyle,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-10-lifestyle-new.jpg,5.5000,https://www.gsmarena.com/htc_desire_10_lifestyle-8276.php,0,1,1,0,0,24000
+390,HTC One A9s,0,134,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-a9sr.jpg,5.0000,https://www.gsmarena.com/htc_one_a9s-8297.php,1,1,0,0,0,48000
+391,HTC Desire 728 Ultra,0,196,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-728-ultra-edition.jpg,5.5000,https://www.gsmarena.com/htc_desire_728_ultra-8633.php,0,1,1,0,0,0
+392,HTC Desire 628,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-628.jpg,5.0000,https://www.gsmarena.com/htc_desire_628-8128.php,0,1,1,0,0,36000
+393,HTC One M9 Prime Camera,0,223,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-one-m9s-.jpg,5.0000,https://www.gsmarena.com/htc_one_m9_prime_camera-8086.php,1,1,0,0,0,0
+394,HTC Desire 830,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-830.jpg,5.5000,https://www.gsmarena.com/htc_desire_830-8066.php,1,1,1,0,0,52000
+395,HTC One S9,0,187,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-s9.jpg,5.0000,https://www.gsmarena.com/htc_one_s9-8072.php,1,1,0,0,0,48000
+396,HTC 10 Lifestyle,0,223,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-10-lifestyle.jpg,5.2000,https://www.gsmarena.com/htc_10_lifestyle-8031.php,1,1,0,0,0,73000
+397,HTC 10,66,268,28882,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-10-r.jpg,5.2000,https://www.gsmarena.com/htc_10-7884.php,1,1,0,0,0,133000
+398,HTC Desire 825,0,214,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-a56-desire-825.jpg,5.5000,https://www.gsmarena.com/htc_desire_825-7942.php,0,1,1,0,0,28000
+399,HTC Desire 630,0,169,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-a16-desire-530.jpg,5.0000,https://www.gsmarena.com/htc_desire_630-7941.php,0,1,1,0,0,27000
+400,HTC Desire 530,0,151,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-a16-desire-530.jpg,5.0000,https://www.gsmarena.com/htc_desire_530-7940.php,1,1,0,0,0,27000
+401,HTC Desire 625,0,62,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-625.jpg,5.0000,https://www.gsmarena.com/htc_desire_625-8348.php,0,1,0,0,0,0
+402,HTC One X9,0,268,0,2016,https://cdn2.gsmarena.com/vv/bigpic/htc-one-x9.jpg,5.5000,https://www.gsmarena.com/htc_one_x9-7836.php,1,1,1,0,0,52000
+403,HTC One M9s,0,241,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-m9s-.jpg,5.0000,https://www.gsmarena.com/htc_one_m9s-7758.php,1,1,0,0,0,54000
+404,HTC Desire 828 dual sim,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-828w.jpg,5.5000,https://www.gsmarena.com/htc_desire_828_dual_sim-7731.php,0,1,1,0,0,0
+405,HTC Desire 728 dual sim,0,214,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-728.jpg,5.5000,https://www.gsmarena.com/htc_desire_728_dual_sim-7753.php,0,1,1,0,0,0
+406,HTC One E9s dual sim,0,277,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-e9s-dual-sim.jpg,5.5000,https://www.gsmarena.com/htc_one_e9s_dual_sim-7627.php,0,1,1,0,0,0
+407,HTC Butterfly 3,0,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-butterfly-3.jpg,5.2000,https://www.gsmarena.com/htc_butterfly_3-7592.php,1,1,0,1,0,0
+408,HTC One A9,46,268,6617,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-a9-new.jpg,5.0000,https://www.gsmarena.com/htc_one_a9-7576.php,1,1,0,0,0,35000
+409,HTC One M9 plus Supreme Camera,0,429,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg,5.2000,https://www.gsmarena.com/htc_one_m9+_supreme_camera-7591.php,1,1,0,1,0,0
+410,HTC Desire 626 (USA),0,0,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg,5.0000,https://www.gsmarena.com/htc_desire_626_(usa)-7421.php,0,1,0,0,0,0
+411,HTC Desire 626s,0,169,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg,5.0000,https://www.gsmarena.com/htc_desire_626s-7418.php,0,1,0,0,0,0
+412,HTC Desire 526,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-526.jpg,4.7000,https://www.gsmarena.com/htc_desire_526-7419.php,0,1,0,0,0,0
+413,HTC Desire 520,0,0,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-520.jpg,4.5000,https://www.gsmarena.com/htc_desire_520-7420.php,0,1,0,0,0,0
+414,HTC One ME,0,303,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-me.jpg,5.2000,https://www.gsmarena.com/htc_one_me-7275.php,1,1,1,1,0,51000
+415,HTC Desire 820G plus dual sim,0,160,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-820g-plus.jpg,5.5000,https://www.gsmarena.com/htc_desire_820g+_dual_sim-7267.php,0,1,1,0,0,0
+416,HTC Desire 326G dual sim,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-326g.jpg,4.5000,https://www.gsmarena.com/htc_desire_326g_dual_sim-7194.php,0,1,1,0,0,0
+417,HTC One M9 plus,0,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg,5.2000,https://www.gsmarena.com/htc_one_m9+-6977.php,1,1,0,1,0,54000
+418,HTC One M8s,0,294,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-m8s.jpg,5.0000,https://www.gsmarena.com/htc_one_m8s-7165.php,1,1,0,0,0,30000
+419,HTC One E9 plus,59,286,9639,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-e9plus.jpg,5.5000,https://www.gsmarena.com/htc_one_e9+-7111.php,1,1,1,0,0,47000
+420,HTC One E9,0,286,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-e9.jpg,5.5000,https://www.gsmarena.com/htc_one_e9-7310.php,1,1,1,0,0,0
+421,HTC One M9,62,321,19848,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-1.jpg,5.0000,https://www.gsmarena.com/htc_one_m9-6891.php,1,1,0,1,0,104000
+422,HTC Desire 820s dual sim,0,330,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-820q.jpg,5.5000,https://www.gsmarena.com/htc_desire_820s_dual_sim-7115.php,0,1,1,0,0,0
+423,HTC Desire 626G plus,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-626g-plus.jpg,5.0000,https://www.gsmarena.com/htc_desire_626g+-7183.php,0,1,1,0,0,0
+424,HTC Desire 626,0,160,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-626.jpg,5.0000,https://www.gsmarena.com/htc_desire_626-6968.php,0,1,1,0,0,19000
+425,HTC Desire 526G plus dual sim ,0,143,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-526Gplus-dual-sim.jpg,4.7000,https://www.gsmarena.com/htc_desire_526g+_dual_sim_-6947.php,0,1,1,0,0,0
+426,HTC Desire 826 dual sim,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-826r.jpg,5.5000,https://www.gsmarena.com/htc_desire_826_dual_sim-6921.php,0,1,1,0,0,0
+427,HTC Desire 320,0,71,0,2015,https://cdn2.gsmarena.com/vv/bigpic/htc-desire-320.jpg,4.5000,https://www.gsmarena.com/htc_desire_320-6913.php,0,1,0,0,0,16000
+428,Motorola One Vision,67,268,21565,2019,https://cdn2.gsmarena.com/vv/bigpic/motorola-one-vision.jpg,6.3000,https://www.gsmarena.com/motorola_one_vision-9647.php,1,1,1,0,0,0
+429,Motorola Moto G7 Plus,59,268,15004,2019,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g7-plus.jpg,6.2000,https://www.gsmarena.com/motorola_moto_g7_plus-9533.php,1,1,1,0,0,116000
+430,Motorola Moto G7,66,223,11173,2019,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g7.jpg,6.2000,https://www.gsmarena.com/motorola_moto_g7-9357.php,1,1,1,0,0,108000
+431,Motorola Moto G7 Power,147,187,11525,2019,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g7-power.jpg,6.2000,https://www.gsmarena.com/motorola_moto_g7_power-9527.php,1,1,1,0,0,108000
+432,Motorola Moto G7 Play,103,134,11016,2019,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g7-play.jpg,5.7000,https://www.gsmarena.com/motorola_moto_g7_play-9532.php,0,1,1,0,0,93000
+433,Motorola One (P30 Play),102,196,10524,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-one-.jpg,5.9000,https://www.gsmarena.com/motorola_one_(p30_play)-9310.php,1,1,1,0,0,0
+434,Motorola One Power (P30 Note),0,241,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-one-power-.jpg,6.2000,https://www.gsmarena.com/motorola_one_power_(p30_note)-9221.php,0,1,1,0,0,0
+435,Motorola Moto Z3,86,357,34848,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z3-play-.jpg,6.0100,https://www.gsmarena.com/motorola_moto_z3-9283.php,1,1,1,0,0,170000
+436,Motorola Moto Z3 Play,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z3-play-.jpg,6.0100,https://www.gsmarena.com/motorola_moto_z3_play-9003.php,1,1,1,0,0,115000
+437,Motorola Moto E5 Play Go,0,98,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e5-play-android-go-edition.jpg,5.8400,https://www.gsmarena.com/motorola_moto_e5_play_go-9270.php,0,1,0,0,0,0
+438,Motorola Moto E5 Cruise,0,40,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e5-cruise.jpg,5.2000,https://www.gsmarena.com/motorola_moto_e5_cruise-9575.php,0,1,0,0,0,0
+439,Motorola Moto E5 Play,0,71,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e5-play.jpg,5.2000,https://www.gsmarena.com/motorola_moto_e5_play-9175.php,0,1,0,0,0,32000
+440,Motorola Moto E5 Plus,0,143,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e5-plus.jpg,6.0000,https://www.gsmarena.com/motorola_moto_e5_plus-9095.php,0,1,1,0,0,35000
+441,Motorola Moto E5,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e5.jpg,5.7000,https://www.gsmarena.com/motorola_moto_e5-9008.php,1,1,1,0,0,32000
+442,Motorola Moto G6 Play,92,134,7620,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g6-play-r1.jpg,5.7000,https://www.gsmarena.com/motorola_moto_g6_play-9002.php,1,1,1,0,0,47000
+443,Motorola P30,0,286,0,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-p30-r.jpg,6.2000,https://www.gsmarena.com/motorola_p30-9294.php,0,1,1,0,0,115000
+444,Motorola Moto G6 Plus,70,232,14357,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g6-plus-r1.jpg,5.9000,https://www.gsmarena.com/motorola_moto_g6_plus-9001.php,1,1,1,0,0,92000
+445,Motorola Moto G6,64,160,9883,2018,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g6-r1.jpg,5.7000,https://www.gsmarena.com/motorola_moto_g6-9000.php,1,1,1,0,0,58000
+446,Motorola Moto X4,64,178,14479,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-x4.jpg,5.2000,https://www.gsmarena.com/motorola_moto_x4-8634.php,1,1,1,0,0,69000
+447,Motorola Moto G5S Plus,81,143,10466,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5s.jpg,5.5000,https://www.gsmarena.com/motorola_moto_g5s_plus-8699.php,1,1,1,0,0,61000
+448,Motorola Moto G5S,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5s-plus.jpg,5.2000,https://www.gsmarena.com/motorola_moto_g5s-8698.php,0,1,1,0,0,56000
+449,Motorola Moto Z2 Force,69,286,38615,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z2-force-.jpg,5.5000,https://www.gsmarena.com/motorola_moto_z2_force-8693.php,1,1,1,0,82,0
+450,Motorola Moto E4 Plus,0,98,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4-plus.jpg,5.5000,https://www.gsmarena.com/motorola_moto_e4_plus-8722.php,1,1,1,0,0,34000
+451,Motorola Moto E4 Plus (USA),0,180,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4-plus-usa.jpg,5.5000,https://www.gsmarena.com/motorola_moto_e4_plus_(usa)-8666.php,0,1,0,0,0,0
+452,Motorola Moto E4,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4.jpg,5.0000,https://www.gsmarena.com/motorola_moto_e4-8721.php,1,1,1,0,0,31000
+453,Motorola Moto E4 (USA),0,130,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e4-usa.jpg,5.0000,https://www.gsmarena.com/motorola_moto_e4_(usa)-8665.php,0,1,0,0,0,0
+454,Motorola Moto Z2 Play,76,205,10455,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z2-play.jpg,5.5000,https://www.gsmarena.com/motorola_moto_z2_play-8674.php,1,1,1,0,0,0
+455,Motorola Moto C Plus,0,107,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-c-plus-.jpg,5.0000,https://www.gsmarena.com/motorola_moto_c_plus-8646.php,0,1,1,0,0,27000
+456,Motorola Moto C,0,89,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-c.jpg,5.0000,https://www.gsmarena.com/motorola_moto_c-8645.php,0,1,1,0,0,27000
+457,Motorola Moto G5 Plus,0,214,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5-plus1.jpg,5.2000,https://www.gsmarena.com/motorola_moto_g5_plus-8453.php,1,1,1,0,0,0
+458,Motorola Moto G5,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g5-r1.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g5-8454.php,0,1,1,0,0,40000
+459,Motorola Moto M,55,169,6732,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-m.jpg,5.5000,https://www.gsmarena.com/motorola_moto_m-8299.php,0,1,1,0,0,76000
+460,Motorola Moto E3 Power,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e3.jpg,5.0000,https://www.gsmarena.com/motorola_moto_e3_power-8337.php,0,1,1,0,0,0
+461,Motorola Moto Z Play,100,196,10401,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z-play.jpg,5.5000,https://www.gsmarena.com/motorola_moto_z_play-8310.php,1,1,1,0,0,0
+462,Motorola Moto E3,0,89,0,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e3.jpg,5.0000,https://www.gsmarena.com/motorola_moto_e3-8198.php,0,1,0,0,0,19000
+463,Motorola Moto Z Force,88,241,36405,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z-force.jpg,5.5000,https://www.gsmarena.com/motorola_moto_z_force-8093.php,1,1,0,0,0,0
+464,Motorola Moto Z,53,196,36322,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z.jpg,5.5000,https://www.gsmarena.com/motorola_moto_z-8094.php,1,1,1,0,0,147000
+465,Motorola Moto G4 Plus,70,143,6380,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-plus-r.jpg,5.5000,https://www.gsmarena.com/motorola_moto_g4_plus-8050.php,0,1,1,0,0,0
+466,Motorola Moto G4,73,116,6932,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-.jpg,5.5000,https://www.gsmarena.com/motorola_moto_g4-8103.php,0,1,1,0,0,56000
+467,Motorola Moto G4 Play,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-play.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g4_play-8104.php,1,1,1,0,0,28000
+468,Motorola Moto G Turbo,0,250,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-turbo-edition-.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g_turbo-7743.php,0,1,1,0,0,0
+469,Motorola Moto X Force,78,250,31561,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-x-force1.jpg,5.4000,https://www.gsmarena.com/motorola_moto_x_force-7555.php,1,1,1,0,0,84000
+470,Motorola Droid Turbo 2,0,294,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-droid-turbo-2.jpg,5.4000,https://www.gsmarena.com/motorola_droid_turbo_2-7713.php,1,1,0,1,0,60000
+471,Motorola Droid Maxx 2,0,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-droid-maxx-2.jpg,5.5000,https://www.gsmarena.com/motorola_droid_maxx_2-7712.php,1,1,0,0,0,0
+472,Motorola Moto X Style,63,232,0,2015,https://cdn2.gsmarena.com/vv/bigpic/moto-x-style-r.jpg,5.7000,https://www.gsmarena.com/motorola_moto_x_style-7229.php,1,1,0,0,0,94000
+473,Motorola Moto X Play Dual SIM,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/moto-x-play-r.jpg,5.5000,https://www.gsmarena.com/motorola_moto_x_play_dual_sim-7470.php,1,1,1,0,0,0
+474,Motorola Moto X Play,83,214,5032,2015,https://cdn2.gsmarena.com/vv/bigpic/moto-x-play-r.jpg,5.5000,https://www.gsmarena.com/motorola_moto_x_play-7454.php,1,1,0,0,0,37000
+475,Motorola Moto G Dual SIM (3rd gen),0,151,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-3rd-gen-r.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g_dual_sim_(3rd_gen)-7469.php,0,1,1,0,0,0
+476,Motorola Moto 360 Sport (1st gen),0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-sport.jpg,1.3700,https://www.gsmarena.com/motorola_moto_360_sport_(1st_gen)-7685.php,0,1,0,0,0,0
+477,Motorola Moto 360 46mm (2nd gen),0,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-2015-new.jpg,1.5600,https://www.gsmarena.com/motorola_moto_360_46mm_(2nd_gen)-7683.php,0,1,0,0,0,0
+478,Motorola Moto 360 42mm (2nd gen),0,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-360-42mm-2015.jpg,1.3700,https://www.gsmarena.com/motorola_moto_360_42mm_(2nd_gen)-7684.php,0,1,0,0,0,0
+479,Motorola Moto G (3rd gen),76,151,1866,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-3rd-gen-r.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g_(3rd_gen)-7247.php,0,1,0,0,0,0
+480,Motorola Moto E Dual SIM (2nd gen),0,89,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e-2nd-gen-xt1521.jpg,4.5000,https://www.gsmarena.com/motorola_moto_e_dual_sim_(2nd_gen)-7222.php,0,1,1,0,0,0
+481,Motorola Moto E (2nd gen),82,116,1851,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e-2015.jpg,4.5000,https://www.gsmarena.com/motorola_moto_e_(2nd_gen)-6986.php,0,1,0,0,0,0
+482,Motorola Moto G 4G (2nd gen),0,187,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-4g-2015.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g_4g_(2nd_gen)-7137.php,0,1,0,0,0,0
+483,Motorola Moto G 4G Dual SIM (2nd gen),0,214,0,2015,https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-4g-2015.jpg,5.0000,https://www.gsmarena.com/motorola_moto_g_4g_dual_sim_(2nd_gen)-6991.php,0,1,1,0,0,0
+484,Xiaomi Redmi 7A,0,71,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7a.jpg,5.4500,https://www.gsmarena.com/xiaomi_redmi_7a-9716.php,0,1,1,0,0,43000
+485,Xiaomi Redmi Note 7S,0,125,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7s.jpg,6.3000,https://www.gsmarena.com/xiaomi_redmi_note_7s-9707.php,0,1,1,1,0,147000
+486,Xiaomi Redmi Y3,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-y3.jpg,6.2600,https://www.gsmarena.com/xiaomi_redmi_y3-9674.php,0,1,1,1,0,103000
+487,Xiaomi Black Shark 2,0,402,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-2.jpg,6.3900,https://www.gsmarena.com/xiaomi_black_shark_2-9639.php,0,1,1,0,0,0
+488,Xiaomi Redmi 7,0,116,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-7.jpg,6.2600,https://www.gsmarena.com/xiaomi_redmi_7-9498.php,0,1,1,1,0,104000
+489,Xiaomi Redmi Note 7 Pro,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7-pro.jpg,6.3000,https://www.gsmarena.com/xiaomi_redmi_note_7_pro-9521.php,0,1,1,1,0,185000
+490,Xiaomi Mi Mix 3 5G,0,536,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg,6.3900,https://www.gsmarena.com/xiaomi_mi_mix_3_5g-9602.php,1,1,1,0,0,385000
+491,Xiaomi Mi 9 Explorer,0,473,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-explore.jpg,6.3900,https://www.gsmarena.com/xiaomi_mi_9_explorer-9584.php,1,1,1,1,0,0
+492,Xiaomi Mi 9 SE,0,268,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-se.jpg,5.9700,https://www.gsmarena.com/xiaomi_mi_9_se-9583.php,1,1,1,1,0,177000
+493,Xiaomi Mi 9,95,402,45089,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg,6.3900,https://www.gsmarena.com/xiaomi_mi_9-9507.php,1,1,1,1,107,372000
+494,Xiaomi Redmi Go,0,71,0,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-go.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_go-9534.php,0,1,1,0,0,32000
+495,Xiaomi Redmi Note 7,108,134,21201,2019,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg,6.3000,https://www.gsmarena.com/xiaomi_redmi_note_7-9513.php,0,1,1,1,0,0
+496,Xiaomi Mi Play,0,151,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-miplay.jpg,5.8400,https://www.gsmarena.com/xiaomi_mi_play-9499.php,0,1,1,0,0,86000
+497,Xiaomi Black Shark Helo,0,402,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg,6.0100,https://www.gsmarena.com/xiaomi_black_shark_helo-9382.php,0,1,1,0,0,275000
+498,Xiaomi Mi Mix 3,84,500,43563,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix3.jpg,6.3900,https://www.gsmarena.com/xiaomi_mi_mix_3-9378.php,1,1,1,0,103,284000
+499,Xiaomi Redmi Note 6 Pro,92,169,15025,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-6-pro-r.jpg,6.2600,https://www.gsmarena.com/xiaomi_redmi_note_6_pro-9333.php,0,1,1,1,0,115000
+500,Xiaomi Mi 8 Pro,0,446,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-pro-.jpg,6.2100,https://www.gsmarena.com/xiaomi_mi_8_pro-9336.php,1,1,1,0,0,0
+501,Xiaomi Mi 8 Lite,77,205,21269,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-lite-.jpg,6.2600,https://www.gsmarena.com/xiaomi_mi_8_lite-9329.php,0,1,1,0,0,0
+502,Xiaomi Pocophone F1,94,259,43652,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-pocophone-f1-.jpg,6.1800,https://www.gsmarena.com/xiaomi_pocophone_f1-9293.php,0,1,1,0,91,296000
+503,Xiaomi Mi A2 (Mi 6X),73,169,21378,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-.jpg,5.9900,https://www.gsmarena.com/xiaomi_mi_a2_(mi_6x)-9140.php,0,1,1,1,0,0
+504,Xiaomi Mi A2 Lite (Redmi 6 Pro),106,160,10525,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a2-lite.jpg,5.8400,https://www.gsmarena.com/xiaomi_mi_a2_lite_(redmi_6_pro)-9247.php,0,1,1,1,0,0
+505,Xiaomi Mi Max 3,115,205,14950,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max3-.jpg,6.9000,https://www.gsmarena.com/xiaomi_mi_max_3-8963.php,0,1,1,1,0,118000
+506,Xiaomi Redmi 6,0,107,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6.jpg,5.4500,https://www.gsmarena.com/xiaomi_redmi_6-9237.php,0,1,1,0,0,75000
+507,Xiaomi Redmi 6A,0,80,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6a.jpg,5.4500,https://www.gsmarena.com/xiaomi_redmi_6a-9217.php,0,1,1,0,0,55000
+508,Xiaomi Mi 8 Explorer,0,446,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-explore-.jpg,6.2100,https://www.gsmarena.com/xiaomi_mi_8_explorer-9218.php,1,1,1,0,0,0
+509,Xiaomi Mi 8,86,339,43285,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi8.jpg,6.2100,https://www.gsmarena.com/xiaomi_mi_8-9065.php,1,1,1,0,99,0
+510,Xiaomi Mi 8 SE,86,232,27560,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi8-se.jpg,5.8800,https://www.gsmarena.com/xiaomi_mi_8_se-9219.php,0,1,1,1,0,0
+511,Xiaomi Redmi S2 (Redmi Y2),92,134,10453,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-s2-.jpg,5.9900,https://www.gsmarena.com/xiaomi_redmi_s2_(redmi_y2)-9185.php,0,1,1,1,0,0
+512,Xiaomi Mi Mix 2S,59,357,44267,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-2s.jpg,5.9900,https://www.gsmarena.com/xiaomi_mi_mix_2s-9067.php,1,1,1,0,97,277000
+513,Xiaomi Redmi Note 5 AI Dual Camera,92,160,14799,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-ai-dual-camera.jpg,5.9900,https://www.gsmarena.com/xiaomi_redmi_note_5_ai_dual_camera-9120.php,0,1,1,1,0,0
+514,Xiaomi Redmi Note 5 Pro,0,160,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5-pro.jpg,5.9900,https://www.gsmarena.com/xiaomi_redmi_note_5_pro-8893.php,0,1,1,1,0,109000
+515,Xiaomi Black Shark,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark.jpg,5.9900,https://www.gsmarena.com/xiaomi_black_shark-9164.php,0,1,1,0,0,294000
+516,Xiaomi Redmi Note 5 (Redmi 5 Plus),104,143,10484,2018,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5-plus.jpg,5.9900,https://www.gsmarena.com/xiaomi_redmi_note_5_(redmi_5_plus)-8959.php,0,1,1,1,0,0
+517,Xiaomi Redmi 5,83,143,9953,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5.jpg,5.7000,https://www.gsmarena.com/xiaomi_redmi_5-8768.php,0,1,1,1,0,70000
+518,Xiaomi Redmi 5A,0,98,0,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_5a-8898.php,0,1,1,1,0,32000
+519,Xiaomi Redmi Y1 (Note 5A),74,125,8084,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5a.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_y1_(note_5a)-8753.php,0,1,1,1,0,0
+520,Xiaomi Redmi Y1 Lite,0,80,0,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-5as.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_y1_lite-8818.php,0,1,1,1,0,32000
+521,Xiaomi Mi Note 3,0,250,0,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note3-.jpg,5.5000,https://www.gsmarena.com/xiaomi_mi_note_3-8707.php,1,1,1,1,90,139000
+522,Xiaomi Mi Mix 2,65,366,38349,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix2-new.jpg,5.9900,https://www.gsmarena.com/xiaomi_mi_mix_2-8529.php,1,1,1,0,0,206000
+523,Xiaomi Mi A1 (Mi 5X),87,151,10472,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-a1.jpg,5.5000,https://www.gsmarena.com/xiaomi_mi_a1_(mi_5x)-8776.php,0,1,1,1,0,0
+524,Xiaomi Mi Max 2,126,178,10482,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max2.jpg,6.4400,https://www.gsmarena.com/xiaomi_mi_max_2-8582.php,0,1,1,1,0,77000
+525,Xiaomi Redmi 4 (4X),80,98,7608,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4x.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_4_(4x)-8608.php,0,1,1,1,0,0
+526,Xiaomi Mi 6,80,294,38541,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-6.jpg,5.1500,https://www.gsmarena.com/xiaomi_mi_6-8507.php,1,1,1,1,0,205000
+527,Xiaomi Mi 5c,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5c.jpg,5.1500,https://www.gsmarena.com/xiaomi_mi_5c-8439.php,0,1,1,1,0,0
+528,Xiaomi Redmi Note 4X,0,116,0,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4x.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_4x-8580.php,0,1,1,1,0,61000
+529,Xiaomi Redmi Note 4,119,134,10446,2017,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_4-8531.php,0,1,1,1,0,83000
+530,Xiaomi Redmi 4A,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4a-.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_4a-8420.php,0,1,1,1,0,43000
+531,Xiaomi Redmi 4 (China),0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_4_(china)-8419.php,0,1,1,1,0,0
+532,Xiaomi Redmi 4 Prime,91,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-4-prime-new.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_4_prime-8263.php,0,1,1,1,0,0
+533,Xiaomi Mi Mix,97,348,37346,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mix-.jpg,6.4000,https://www.gsmarena.com/xiaomi_mi_mix-8400.php,1,1,1,0,0,157000
+534,Xiaomi Mi Note 2,92,277,36506,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg,5.7000,https://www.gsmarena.com/xiaomi_mi_note_2-8014.php,1,1,1,1,0,164000
+535,Xiaomi Mi 5s Plus,104,277,36062,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s-plus.jpg,5.7000,https://www.gsmarena.com/xiaomi_mi_5s_plus-8350.php,1,1,1,1,0,0
+536,Xiaomi Mi 5s,84,223,36240,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5s1.jpg,5.1500,https://www.gsmarena.com/xiaomi_mi_5s-7260.php,1,1,1,0,0,0
+537,Xiaomi Redmi Note 4 (MediaTek),83,151,13666,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_4_(mediatek)-8291.php,0,1,1,1,0,0
+538,Xiaomi Redmi Pro,80,151,23846,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pro.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_pro-8233.php,0,1,1,1,0,86000
+539,Xiaomi Redmi 3x,0,151,0,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3x.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_3x-8212.php,0,1,1,1,0,35000
+540,Xiaomi Redmi 3s Prime,85,134,7263,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_3s_prime-8250.php,0,1,1,1,0,0
+541,Xiaomi Redmi 3s,104,107,7263,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3s.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_3s-8150.php,0,1,1,1,0,37000
+542,Xiaomi Redmi 3 Pro,104,116,262,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-pro-.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_3_pro-8007.php,0,1,1,1,0,33000
+543,Xiaomi Mi 5,92,214,33110,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-5.jpg,5.1500,https://www.gsmarena.com/xiaomi_mi_5-6948.php,1,1,1,1,0,0
+544,Xiaomi Mi Max,108,134,15487,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max-.jpg,6.4400,https://www.gsmarena.com/xiaomi_mi_max-8057.php,0,1,1,1,0,97000
+545,Xiaomi Mi 4s,75,196,12990,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4s.jpg,5.0000,https://www.gsmarena.com/xiaomi_mi_4s-7962.php,0,1,1,1,0,61000
+546,Xiaomi Redmi Note 3,93,143,14717,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_3-7863.php,0,1,1,1,0,49000
+547,Xiaomi Redmi 3,107,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3-.jpg,5.0000,https://www.gsmarena.com/xiaomi_redmi_3-7862.php,0,1,1,1,0,33000
+548,Xiaomi Redmi Note Prime,0,125,0,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-prime-.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_prime-7822.php,0,1,1,0,0,0
+549,Xiaomi Redmi Note 3 (MediaTek),72,160,8540,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-3.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_3_(mediatek)-7769.php,0,1,1,1,0,0
+550,Xiaomi Mi 4c,52,187,12096,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4c.jpg,5.0000,https://www.gsmarena.com/xiaomi_mi_4c-7512.php,0,1,1,1,0,0
+551,Xiaomi Redmi Note 2,49,143,8518,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-2--.jpg,5.5000,https://www.gsmarena.com/xiaomi_redmi_note_2-6992.php,0,1,1,1,0,0
+552,Xiaomi Redmi 2 Pro,0,89,0,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2-prime-.jpg,4.7000,https://www.gsmarena.com/xiaomi_redmi_2_pro-7710.php,0,1,1,0,0,0
+553,Xiaomi Redmi 2 Prime,0,107,0,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2-prime-.jpg,4.7000,https://www.gsmarena.com/xiaomi_redmi_2_prime-7480.php,0,1,1,0,0,0
+554,Xiaomi Mi 4i,67,232,4875,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi4i.jpg,5.0000,https://www.gsmarena.com/xiaomi_mi_4i-7211.php,0,1,1,0,0,40000
+555,Xiaomi Mi Note Pro,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-note-pro2.jpg,5.7000,https://www.gsmarena.com/xiaomi_mi_note_pro-6952.php,0,1,1,0,0,80000
+556,Xiaomi Mi Note,48,169,13075,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-note-2015.jpg,5.7000,https://www.gsmarena.com/xiaomi_mi_note-6944.php,0,1,1,0,0,64000
+557,Xiaomi Redmi 2A,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg,4.7000,https://www.gsmarena.com/xiaomi_redmi_2a-7159.php,0,1,1,0,0,23000
+558,Xiaomi Redmi 2,55,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg,4.7000,https://www.gsmarena.com/xiaomi_redmi_2-6884.php,0,1,1,0,0,23000
+559,Google Pixel 3a XL,98,429,25962,2019,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-3a-xl.jpg,6.0000,https://www.gsmarena.com/google_pixel_3a_xl-9690.php,1,1,0,0,0,159000
+560,Google Pixel 3a,0,357,0,2019,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-3a.jpg,5.6000,https://www.gsmarena.com/google_pixel_3a-9408.php,1,1,0,0,0,159000
+561,Google Pixel 3 XL,0,858,0,2018,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-3xl-.jpg,6.3000,https://www.gsmarena.com/google_pixel_3_xl-9257.php,1,1,0,0,0,275000
+562,Google Pixel 3,69,759,44369,2018,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-3-.jpg,5.5000,https://www.gsmarena.com/google_pixel_3-9256.php,1,1,0,0,101,275000
+563,Google Pixel 2,75,491,38794,2017,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-2.jpg,5.0000,https://www.gsmarena.com/google_pixel_2-8733.php,1,1,0,0,98,175000
+564,Google Pixel 2 XL,88,473,39143,2017,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-xl2-.jpg,6.0000,https://www.gsmarena.com/google_pixel_2_xl-8720.php,1,1,0,0,0,203000
+565,Google Pixel XL,78,339,30861,2016,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-xl.jpg,5.5000,https://www.gsmarena.com/google_pixel_xl-8345.php,1,1,0,0,0,145000
+566,Google Pixel,64,259,33023,2016,https://cdn2.gsmarena.com/vv/bigpic/google-pixel.jpg,5.0000,https://www.gsmarena.com/google_pixel-8346.php,1,1,0,0,90,145000
+567,Google Pixel C,0,303,0,2015,https://cdn2.gsmarena.com/vv/bigpic/google-pixel-c--.jpg,10.2000,https://www.gsmarena.com/google_pixel_c-7826.php,0,1,0,0,0,66000
+568,Honor 20 Pro,0,536,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-20-pro-r.jpg,6.2600,https://www.gsmarena.com/honor_20_pro-9710.php,0,1,1,1,111,0
+569,Honor 20,0,446,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-20.jpg,6.2600,https://www.gsmarena.com/honor_20-9615.php,0,1,1,1,0,0
+570,Honor 20 lite,0,268,0,2019,https://cdn2.gsmarena.com/vv/bigpic/honor-20-lite.jpg,6.2100,https://www.gsmarena.com/honor_20_lite-9641.php,1,1,1,0,0,0
+571,Honor 8S,0,107,0,2019,https://cdn2.gsmarena.com/vv/bigpic/honor-8s-.jpg,5.7100,https://www.gsmarena.com/honor_8s-9664.php,0,1,1,0,0,0
+572,Honor 20i,0,187,0,2019,https://cdn2.gsmarena.com/vv/bigpic/honor-20i.jpg,6.2100,https://www.gsmarena.com/honor_20i-9663.php,0,1,1,0,0,0
+573,Honor 8A Pro,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-8a-pro.jpg,6.0900,https://www.gsmarena.com/honor_8a_pro-9662.php,0,1,1,0,0,0
+574,Honor View 20,96,509,43637,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-view-20-ofic.jpg,6.4000,https://www.gsmarena.com/honor_view_20-9468.php,1,1,1,1,0,0
+575,Honor Magic 2 3D,0,446,0,2019,https://cdn2.gsmarena.com/vv/bigpic/honor-magic-2-3d.jpg,6.3900,https://www.gsmarena.com/honor_magic_2_3d-9628.php,1,1,1,0,0,0
+576,Honor Magic 2,89,491,43562,2018,https://cdn2.gsmarena.com/vv/bigpic/honor-magic-2-.jpg,6.3900,https://www.gsmarena.com/honor_magic_2-9381.php,1,1,1,0,0,0
+577,Honor Play 8A,0,89,0,2019,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-play-8a.jpg,6.0900,https://www.gsmarena.com/honor_play_8a-9509.php,0,1,1,0,0,0
+578,Honor 10 Lite,89,187,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-10-lite.jpg,6.2100,https://www.gsmarena.com/honor_10_lite-9403.php,1,1,1,0,0,0
+579,Honor 8C,0,151,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-8c.jpg,6.2600,https://www.gsmarena.com/honor_8c-9366.php,0,1,1,0,0,0
+580,Honor 8X,96,241,20416,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-8x.jpg,6.5000,https://www.gsmarena.com/honor_8x-9313.php,1,1,1,0,0,0
+581,Honor 8X Max,0,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-8x-max.jpg,7.1200,https://www.gsmarena.com/honor_8x_max-9306.php,0,1,1,0,0,0
+582,Honor Note 10,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-note10-cn.jpg,6.9500,https://www.gsmarena.com/honor_note_10-8799.php,1,1,1,0,0,0
+583,Honor 9N (9i),0,196,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-9n.jpg,5.8400,https://www.gsmarena.com/honor_9n_(9i)-9229.php,0,1,1,0,0,0
+584,Honor Play,94,286,32238,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-play-ofic.jpg,6.3000,https://www.gsmarena.com/honor_play-9230.php,1,1,1,0,0,0
+585,Honor 7S,0,98,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-play-7.jpg,5.4500,https://www.gsmarena.com/honor_7s-9211.php,0,1,1,0,0,0
+586,Honor 10,74,357,29435,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-10-.jpg,5.8400,https://www.gsmarena.com/honor_10-9157.php,1,1,1,1,0,0
+587,Honor 7A,0,107,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7a-.jpg,5.7000,https://www.gsmarena.com/honor_7a-9075.php,0,1,1,0,0,0
+588,Honor 7C,0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7c.jpg,5.9900,https://www.gsmarena.com/honor_7c-9111.php,0,1,1,0,0,0
+589,Honor 9 Lite,0,169,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-9-lite.jpg,5.6500,https://www.gsmarena.com/honor_9_lite-8962.php,0,1,1,0,0,0
+590,Honor 7X,77,259,8616,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7x.jpg,5.9300,https://www.gsmarena.com/honor_7x-8880.php,0,1,1,0,0,0
+591,Honor View 10,74,330,33499,2018,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-view-10.jpg,5.9900,https://www.gsmarena.com/honor_view_10-8938.php,1,1,1,1,0,0
+592,Honor 6C Pro,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-v9-play.jpg,5.2000,https://www.gsmarena.com/honor_6c_pro-8856.php,0,1,1,0,0,0
+593,Honor 9,77,277,29398,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-9-1.jpg,5.1500,https://www.gsmarena.com/honor_9-8704.php,1,1,1,1,0,0
+594,Honor 6A (Pro),0,116,0,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-nonor-6a.jpg,5.0000,https://www.gsmarena.com/honor_6a_(pro)-8700.php,0,1,1,0,0,0
+595,Honor 8 Pro,77,348,30853,2017,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-8-pro.jpg,5.7000,https://www.gsmarena.com/honor_8_pro-8568.php,1,1,1,1,0,0
+596,Honor Magic,0,357,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-magic.jpg,5.0900,https://www.gsmarena.com/honor_magic-8482.php,1,1,1,0,0,0
+597,Honor V8,0,286,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-v8.jpg,5.7000,https://www.gsmarena.com/honor_v8-8061.php,1,1,1,1,0,0
+598,Honor 6X,84,160,8548,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-6x-2016.jpg,5.5000,https://www.gsmarena.com/honor_6x-8388.php,0,1,1,0,0,0
+599,Honor Holly 3,0,125,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-5a.jpg,5.5000,https://www.gsmarena.com/honor_holly_3-8383.php,0,1,1,0,0,0
+600,Honor Note 8,0,357,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-note8.jpg,6.6000,https://www.gsmarena.com/honor_note_8-8231.php,0,1,1,0,0,0
+601,Honor 8,70,232,16592,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-8r1.jpg,5.2000,https://www.gsmarena.com/honor_8-8195.php,1,1,1,1,0,0
+602,Honor 5A,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-5a-new.jpg,5.0000,https://www.gsmarena.com/honor_5a-8149.php,0,1,1,0,0,0
+603,Honor 5c,75,151,7735,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-5c-1.jpg,5.2000,https://www.gsmarena.com/honor_5c-8074.php,0,1,1,0,0,0
+604,Honor Holly 2 Plus,0,125,0,2016,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-holly2-plus.jpg,5.0000,https://www.gsmarena.com/honor_holly_2_plus-7882.php,0,1,1,0,0,0
+605,Honor 5X,76,160,5009,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-5x.jpg,5.5000,https://www.gsmarena.com/honor_5x-7590.php,0,1,1,0,0,0
+606,Honor 7i,0,277,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7i.jpg,5.2000,https://www.gsmarena.com/honor_7i-7510.php,1,1,1,0,0,0
+607,Honor 7,64,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7r.jpg,5.2000,https://www.gsmarena.com/honor_7-7269.php,0,1,1,1,0,0
+608,Honor Bee,0,62,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-bee.jpg,4.5000,https://www.gsmarena.com/honor_bee-7235.php,0,1,1,0,0,0
+609,Honor 4C,0,151,0,2015,https://cdn2.gsmarena.com/vv/bigpic/huawei-honor-4c.jpg,5.0000,https://www.gsmarena.com/honor_4c-7203.php,0,1,1,0,0,0
+610,Oppo K3,0,187,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-k3.jpg,6.5000,https://www.gsmarena.com/oppo_k3-9699.php,0,1,1,0,0,154000
+611,Oppo A9x,0,232,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-a9.jpg,6.5300,https://www.gsmarena.com/oppo_a9x-9706.php,1,1,1,0,0,137000
+612,Oppo Reno Z,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-reno-z-r.jpg,6.4000,https://www.gsmarena.com/oppo_reno_z-9702.php,1,1,1,0,0,220000
+613,Oppo A9,0,169,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-a9.jpg,6.5300,https://www.gsmarena.com/oppo_a9-9677.php,1,1,1,0,0,137000
+614,Oppo Reno 5G,0,786,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-reno-10x-zoom.jpg,6.6000,https://www.gsmarena.com/oppo_reno_5g-9676.php,1,1,1,0,0,0
+615,Oppo Reno 10x zoom,0,715,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-reno-10x-zoom.jpg,6.6000,https://www.gsmarena.com/oppo_reno_10x_zoom-9654.php,1,1,1,0,0,0
+616,Oppo Reno,0,446,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-reno1.jpg,6.4000,https://www.gsmarena.com/oppo_reno-9631.php,1,1,1,0,0,137000
+617,Oppo A1k,0,89,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-a1k.jpg,6.1000,https://www.gsmarena.com/oppo_a1k-9673.php,0,1,1,0,0,75000
+618,Oppo A7n,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-a7n.jpg,6.2000,https://www.gsmarena.com/oppo_a7n-9653.php,1,1,1,0,0,86000
+619,Oppo A5s (AX5s),0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-a5s-r.jpg,6.2000,https://www.gsmarena.com/oppo_a5s_(ax5s)-9626.php,0,1,1,0,0,0
+620,Oppo F11,0,223,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-f11-.jpg,6.5300,https://www.gsmarena.com/oppo_f11-9617.php,0,1,1,0,0,137000
+621,Oppo F11 Pro,109,286,16538,2019,https://cdn2.gsmarena.com/vv/bigpic/oppo-f11-pro-.jpg,6.5300,https://www.gsmarena.com/oppo_f11_pro-9566.php,0,1,1,0,0,156000
+622,Oppo A7,0,241,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a7.jpg,6.2000,https://www.gsmarena.com/oppo_a7-9394.php,0,1,1,0,0,57000
+623,Oppo R15x,0,312,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-r15x.jpg,6.4000,https://www.gsmarena.com/oppo_r15x-9380.php,0,1,1,0,0,143000
+624,Oppo RX17 Neo,0,312,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-k1-.jpg,6.4100,https://www.gsmarena.com/oppo_rx17_neo-9393.php,0,1,1,0,0,0
+625,Oppo K1,0,187,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-k1-.jpg,6.4000,https://www.gsmarena.com/oppo_k1-9361.php,0,1,1,0,0,140000
+626,Oppo A7x,0,241,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a7x-.jpg,6.3000,https://www.gsmarena.com/oppo_a7x-9317.php,0,1,1,0,0,140000
+627,Oppo RX17 Pro,80,536,28537,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-r17-pro.jpg,6.4000,https://www.gsmarena.com/oppo_rx17_pro-9288.php,1,1,1,0,0,170000
+628,Oppo R17,0,411,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-r17-.jpg,6.4000,https://www.gsmarena.com/oppo_r17-9287.php,0,1,1,0,0,175000
+629,Oppo F9 (F9 Pro),94,259,10536,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-f9.jpg,6.3000,https://www.gsmarena.com/oppo_f9_(f9_pro)-9286.php,0,1,1,0,0,0
+630,Oppo A3s,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a3s.jpg,6.2000,https://www.gsmarena.com/oppo_a3s-9269.php,0,1,1,0,0,64000
+631,Oppo A5 (AX5),0,205,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a5.jpg,6.2000,https://www.gsmarena.com/oppo_a5_(ax5)-9259.php,0,1,1,0,0,0
+632,Oppo Find X Lamborghini,82,1206,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-find-x-lamborgini-edition.jpg,6.4200,https://www.gsmarena.com/oppo_find_x_lamborghini-9248.php,0,1,1,0,0,286000
+633,Oppo Find X,90,536,40537,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-find-x.jpg,6.4200,https://www.gsmarena.com/oppo_find_x-7885.php,0,1,1,0,0,286000
+634,Oppo F7 Youth,0,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-f7-yough-5.jpg,6.0000,https://www.gsmarena.com/oppo_f7_youth-9208.php,0,1,1,0,0,0
+635,Oppo A3,0,294,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a3.jpg,6.2000,https://www.gsmarena.com/oppo_a3-9168.php,0,1,1,0,0,140000
+636,Oppo F7,91,241,11873,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-f7-.jpg,6.2300,https://www.gsmarena.com/oppo_f7-9121.php,0,1,1,0,0,140000
+637,Oppo R15 Pro,86,455,20693,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-r15-dme.jpg,6.2800,https://www.gsmarena.com/oppo_r15_pro-9118.php,1,1,1,0,0,146000
+638,Oppo R15,0,411,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-r15-.jpg,6.2800,https://www.gsmarena.com/oppo_r15-9108.php,0,1,1,0,0,140000
+639,Oppo A1,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a1.jpg,5.7000,https://www.gsmarena.com/oppo_a1-9134.php,0,1,1,0,0,69000
+640,Oppo A71 (2018),0,116,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a71-2018.jpg,5.2000,https://www.gsmarena.com/oppo_a71_(2018)-9051.php,0,1,1,0,0,0
+641,Oppo A83,0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oppo-a83.jpg,5.7000,https://www.gsmarena.com/oppo_a83-8957.php,0,1,1,0,0,80000
+642,Oppo F5 Youth,0,250,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-f5-youth-a73-new.jpg,6.0000,https://www.gsmarena.com/oppo_f5_youth-8909.php,0,1,1,0,0,72000
+643,Oppo F5,91,286,9205,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-f5-youth-a73-new.jpg,6.0000,https://www.gsmarena.com/oppo_f5-8889.php,0,1,1,0,0,72000
+644,Oppo R11s Plus,0,518,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-r11s-plus.jpg,6.4300,https://www.gsmarena.com/oppo_r11s_plus-8927.php,0,1,1,0,0,137000
+645,Oppo R11s,77,402,20914,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-r11s-r.jpg,6.0100,https://www.gsmarena.com/oppo_r11s-8911.php,0,1,1,0,0,138000
+646,Oppo A71,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-a71-.jpg,5.2000,https://www.gsmarena.com/oppo_a71-8849.php,0,1,1,0,0,62000
+647,Oppo A77,0,250,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-a77-sn.jpg,5.5000,https://www.gsmarena.com/oppo_a77-8777.php,0,1,1,0,0,42000
+648,Oppo R11 Plus,0,446,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-r11.jpg,6.0000,https://www.gsmarena.com/oppo_r11_plus-8719.php,0,1,1,0,0,136000
+649,Oppo R11,81,357,20350,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-r11.jpg,5.5000,https://www.gsmarena.com/oppo_r11-8644.php,0,1,1,0,0,136000
+650,Oppo A77 (Mediatek),0,277,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-a77-.jpg,5.5000,https://www.gsmarena.com/oppo_a77_(mediatek)-8685.php,0,1,1,0,0,0
+651,Oppo A39,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-a39.jpg,5.2000,https://www.gsmarena.com/oppo_a39-8890.php,0,1,1,0,0,0
+652,Oppo F3,68,232,6148,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-f3-plus.jpg,5.5000,https://www.gsmarena.com/oppo_f3-8669.php,0,1,1,0,0,57000
+653,Oppo F3 Plus,79,429,16695,2017,https://cdn2.gsmarena.com/vv/bigpic/oppo-f3-plus.jpg,6.0000,https://www.gsmarena.com/oppo_f3_plus-8613.php,0,1,1,0,0,92000
+654,Oppo A57,0,178,0,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-a57.jpg,5.2000,https://www.gsmarena.com/oppo_a57-8468.php,0,1,1,0,0,46000
+655,Oppo F1s,0,223,0,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-f1s.jpg,5.5000,https://www.gsmarena.com/oppo_f1s-8239.php,0,1,1,0,0,41000
+656,Oppo R9s Plus,0,509,0,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-r9s-.jpg,6.0000,https://www.gsmarena.com/oppo_r9s_plus-8394.php,1,1,1,0,0,99000
+657,Oppo R9s,74,402,10519,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-r9s-.jpg,5.5000,https://www.gsmarena.com/oppo_r9s-8386.php,0,1,1,0,0,62000
+658,Oppo A37,0,196,0,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-a37.jpg,5.0000,https://www.gsmarena.com/oppo_a37-8162.php,0,1,1,0,0,39000
+659,Oppo A59,0,259,0,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-a59.jpg,5.5000,https://www.gsmarena.com/oppo_a59-8155.php,0,1,1,0,0,36000
+660,Oppo R9 Plus,0,491,0,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-r9.jpg,6.0000,https://www.gsmarena.com/oppo_r9_plus-7981.php,0,1,1,0,0,73000
+661,Oppo F1 Plus,74,312,6204,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-f1-plus.jpg,5.5000,https://www.gsmarena.com/oppo_f1_plus-7967.php,0,1,1,0,0,51000
+662,Oppo F1,58,205,5314,2016,https://cdn2.gsmarena.com/vv/bigpic/oppo-f1.jpg,5.0000,https://www.gsmarena.com/oppo_f1-7855.php,0,1,1,0,0,35000
+663,Oppo A53,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-a53.jpg,5.5000,https://www.gsmarena.com/oppo_a53-7780.php,1,1,1,0,0,34000
+664,Oppo A33,0,214,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-a33.jpg,5.0000,https://www.gsmarena.com/oppo_a33-7767.php,0,1,1,0,0,26000
+665,Oppo Neo 7,0,125,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-neo-7.jpg,5.0000,https://www.gsmarena.com/oppo_neo_7-7707.php,0,1,1,0,0,25000
+666,Oppo R7s,73,232,5302,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-r7s.jpg,5.5000,https://www.gsmarena.com/oppo_r7s-7669.php,0,1,1,0,0,31000
+667,Oppo R7 lite,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-r7-new.jpg,5.0000,https://www.gsmarena.com/oppo_r7_lite-7553.php,0,1,1,0,0,0
+668,Oppo R5s,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-r5s.jpg,5.2000,https://www.gsmarena.com/oppo_r5s-7514.php,0,1,0,0,0,26000
+669,Oppo Mirror 5s,0,0,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-mirror-5s.jpg,5.0000,https://www.gsmarena.com/oppo_mirror_5s-7362.php,0,1,1,1,0,19000
+670,Oppo Mirror 5,0,196,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-mirror-5s.jpg,5.0000,https://www.gsmarena.com/oppo_mirror_5-7427.php,0,1,1,1,0,0
+671,Oppo Joy 3,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-joy3.jpg,4.5000,https://www.gsmarena.com/oppo_joy_3-7353.php,0,1,1,0,0,0
+672,Oppo R7 Plus,94,384,5349,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-r7-plus.jpg,6.0000,https://www.gsmarena.com/oppo_r7_plus-7237.php,0,1,1,0,0,35000
+673,Oppo R7,63,321,5382,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-r7-new.jpg,5.0000,https://www.gsmarena.com/oppo_r7-7221.php,0,1,1,0,0,28000
+674,Oppo Neo 5 (2015),0,62,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-neo-5s.jpg,4.5000,https://www.gsmarena.com/oppo_neo_5_(2015)-7278.php,0,1,1,0,0,0
+675,Oppo Neo 5s,0,143,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-neo-5s.jpg,4.5000,https://www.gsmarena.com/oppo_neo_5s-7248.php,0,1,1,0,0,0
+676,Oppo Joy Plus,0,89,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-joy-plus.jpg,4.0000,https://www.gsmarena.com/oppo_joy_plus-7208.php,0,1,1,0,0,0
+677,Oppo Mirror 3,0,241,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-mirror-3.jpg,4.7000,https://www.gsmarena.com/oppo_mirror_3-7193.php,0,1,1,0,0,0
+678,Oppo A31,0,134,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-a31.jpg,4.5000,https://www.gsmarena.com/oppo_a31-7186.php,0,1,1,0,0,0
+679,Oppo R1x,56,303,4018,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-r1c-new.jpg,5.0000,https://www.gsmarena.com/oppo_r1x-6945.php,0,1,1,0,0,0
+680,Oppo U3,0,0,0,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-u3-new.jpg,5.9000,https://www.gsmarena.com/oppo_u3-6780.php,1,1,1,0,0,0
+681,Oppo N3,64,491,10095,2015,https://cdn2.gsmarena.com/vv/bigpic/oppo-n3-new1.jpg,5.5000,https://www.gsmarena.com/oppo_n3-6752.php,1,1,1,0,0,36000
+682,OnePlus 7 Pro 5G,0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg,6.6700,https://www.gsmarena.com/oneplus_7_pro_5g-9704.php,1,1,1,0,0,0
+683,OnePlus 7 Pro,85,625,45413,2019,https://cdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg,6.6700,https://www.gsmarena.com/oneplus_7_pro-9689.php,1,1,1,0,111,364000
+684,OnePlus 7,0,491,0,2019,https://cdn2.gsmarena.com/vv/bigpic/oneplus-7--.jpg,6.4100,https://www.gsmarena.com/oneplus_7-9623.php,1,1,1,0,0,362000
+685,OnePlus 6T McLaren,0,625,0,2018,https://cdn2.gsmarena.com/vv/bigpic/oneplus-6t-mclaren-edition.jpg,6.4100,https://www.gsmarena.com/oneplus_6t_mclaren-9469.php,1,1,1,0,0,0
+686,OnePlus 6T,90,491,43886,2018,https://cdn2.gsmarena.com/vv/bigpic/oneplus-6t-thunder-purple.jpg,6.4100,https://www.gsmarena.com/oneplus_6t-9350.php,1,1,1,0,98,297000
+687,OnePlus 6,76,464,44229,2018,https://cdn2.gsmarena.com/vv/bigpic/oneplus-6-red.jpg,6.2800,https://www.gsmarena.com/oneplus_6-9109.php,1,1,1,0,96,292000
+688,OnePlus 5T,82,446,38656,2017,https://cdn2.gsmarena.com/vv/bigpic/oneplus-5t.jpg,6.0100,https://www.gsmarena.com/oneplus_5t-8912.php,1,1,1,0,0,212000
+689,OnePlus 5,83,446,38844,2017,https://cdn2.gsmarena.com/vv/bigpic/oneplus-5.jpg,5.5000,https://www.gsmarena.com/oneplus_5-8647.php,1,1,1,0,0,210000
+690,OnePlus 3T,83,393,36958,2016,https://cdn2.gsmarena.com/vv/bigpic/oneplus-3t-.jpg,5.5000,https://www.gsmarena.com/oneplus_3t-8416.php,1,1,1,0,0,178000
+691,OnePlus 3,66,357,32715,2016,https://cdn2.gsmarena.com/vv/bigpic/oneplus-3-.jpg,5.5000,https://www.gsmarena.com/oneplus_3-7995.php,1,1,1,0,0,164000
+692,OnePlus X,54,241,10572,2015,https://cdn2.gsmarena.com/vv/bigpic/oneplus-x.jpg,5.0000,https://www.gsmarena.com/oneplus_x-7630.php,0,1,1,0,0,47000
+693,OnePlus 2,61,268,21937,2015,https://cdn2.gsmarena.com/vv/bigpic/oneplus-two.jpg,5.5000,https://www.gsmarena.com/oneplus_2-6902.php,0,1,1,0,0,91000
+694,Meizu 16s,0,375,0,2019,https://cdn2.gsmarena.com/vv/bigpic/meizu-16s.jpg,6.2000,https://www.gsmarena.com/meizu_16s-9424.php,1,1,1,0,0,374000
+695,Meizu Note 9,0,178,0,2019,https://cdn2.gsmarena.com/vv/bigpic/meizu-note-9.jpg,6.2000,https://www.gsmarena.com/meizu_note_9-9555.php,0,1,1,0,0,178000
+696,Meizu C9 Pro,0,98,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-c9-pro.jpg,5.4500,https://www.gsmarena.com/meizu_c9_pro-9453.php,0,1,1,0,0,0
+697,Meizu C9,0,80,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-c9.jpg,5.4500,https://www.gsmarena.com/meizu_c9-9454.php,0,1,1,0,0,16000
+698,Meizu Note 8,0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-note-8-.jpg,6.0000,https://www.gsmarena.com/meizu_note_8-9384.php,0,1,1,0,0,102000
+699,Meizu X8,0,178,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-x8.jpg,6.2000,https://www.gsmarena.com/meizu_x8-9341.php,0,1,1,0,0,164000
+700,Meizu V8 Pro,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-v8-pro.jpg,5.7000,https://www.gsmarena.com/meizu_v8_pro-9338.php,0,1,1,0,0,75000
+701,Meizu V8,0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-v8.jpg,5.7000,https://www.gsmarena.com/meizu_v8-9339.php,0,1,1,0,0,25000
+702,Meizu 16X,0,268,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-m16x-.jpg,6.0000,https://www.gsmarena.com/meizu_16x-9337.php,0,1,1,0,0,164000
+703,Meizu 16,0,366,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-16.jpg,6.0000,https://www.gsmarena.com/meizu_16-9280.php,0,1,1,0,0,164000
+704,Meizu 16 Plus,0,429,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-16-plus.jpg,6.5000,https://www.gsmarena.com/meizu_16_plus-9279.php,0,1,1,0,0,291000
+705,Meizu M6T,0,116,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-m6t.jpg,5.7000,https://www.gsmarena.com/meizu_m6t-9213.php,0,1,1,0,0,0
+706,Meizu M8c,0,125,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-m8c.jpg,5.4500,https://www.gsmarena.com/meizu_m8c-9210.php,0,1,1,0,0,32000
+707,Meizu 15 Plus,0,429,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-15-plus-.jpg,5.9500,https://www.gsmarena.com/meizu_15_plus-9160.php,0,1,1,0,0,184000
+708,Meizu 15,77,357,20836,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-15.jpg,5.4600,https://www.gsmarena.com/meizu_15-9159.php,0,1,1,0,0,134000
+709,Meizu 15 Lite,0,214,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-m15.jpg,5.4600,https://www.gsmarena.com/meizu_15_lite-9158.php,0,1,1,0,0,81000
+710,Meizu E3,0,250,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-e3.jpg,5.9900,https://www.gsmarena.com/meizu_e3-9066.php,0,1,1,0,0,112000
+711,Meizu M6s,0,134,0,2018,https://cdn2.gsmarena.com/vv/bigpic/meizu-m6s.jpg,5.7000,https://www.gsmarena.com/meizu_m6s-8998.php,0,1,1,0,0,90000
+712,Meizu M6,0,116,0,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-m6--.jpg,5.2000,https://www.gsmarena.com/meizu_m6-8868.php,0,1,1,0,0,36000
+713,Meizu M6 Note,0,151,0,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-m6-note.jpg,5.5000,https://www.gsmarena.com/meizu_m6_note-8802.php,0,1,1,0,0,75000
+714,Meizu Pro 7 Plus,70,446,22472,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-pro-7-plus.jpg,5.7000,https://www.gsmarena.com/meizu_pro_7_plus-8791.php,0,1,1,0,0,149000
+715,Meizu Pro 7,0,357,0,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-pro-7.jpg,5.2000,https://www.gsmarena.com/meizu_pro_7-8445.php,0,1,1,0,0,67000
+716,Meizu M5c,0,125,0,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-m5c-.jpg,5.0000,https://www.gsmarena.com/meizu_m5c-8697.php,0,1,1,0,0,26000
+717,Meizu E2,0,187,0,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-e2.jpg,5.5000,https://www.gsmarena.com/meizu_e2-8659.php,0,1,1,0,0,81000
+718,Meizu M5s,56,116,4646,2017,https://cdn2.gsmarena.com/vv/bigpic/meizu-m5s.jpg,5.2000,https://www.gsmarena.com/meizu_m5s-8500.php,0,1,1,0,0,45000
+719,Meizu M5 Note,98,169,5276,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m5-note.jpg,5.5000,https://www.gsmarena.com/meizu_m5_note-8450.php,0,1,1,0,0,48000
+720,Meizu M3x,0,0,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m3x.jpg,5.5000,https://www.gsmarena.com/meizu_m3x-8452.php,0,1,1,0,0,0
+721,Meizu Pro 6 Plus,96,491,23513,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-pro-6-plus.jpg,5.7000,https://www.gsmarena.com/meizu_pro_6_plus-8451.php,1,1,1,0,0,135000
+722,Meizu MX5e,0,169,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-mx5.jpg,5.5000,https://www.gsmarena.com/meizu_mx5e-8446.php,0,1,1,0,0,0
+723,Meizu U10,0,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-u10.jpg,5.0000,https://www.gsmarena.com/meizu_u10-8441.php,0,1,1,0,0,40000
+724,Meizu U20,0,169,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-u20.jpg,5.5000,https://www.gsmarena.com/meizu_u20-8440.php,0,1,1,0,0,50000
+725,Meizu Pro 6s,0,384,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-pro-6s.jpg,5.2000,https://www.gsmarena.com/meizu_pro_6s-8389.php,1,1,1,0,0,96000
+726,Meizu M5,76,107,4767,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m5.jpg,5.2000,https://www.gsmarena.com/meizu_m5-8408.php,0,1,1,0,0,36000
+727,Meizu M3 Max,100,241,5219,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m3m.jpg,6.0000,https://www.gsmarena.com/meizu_m3_max-8321.php,0,1,1,0,0,50000
+728,Meizu M3e,0,196,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m3e.jpg,5.5000,https://www.gsmarena.com/meizu_m3e-8264.php,0,1,1,0,0,47000
+729,Meizu MX6,68,268,12621,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-mx6.jpg,5.5000,https://www.gsmarena.com/meizu_mx6-8078.php,0,1,1,0,0,99000
+730,Meizu M3s,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m3s.jpg,5.0000,https://www.gsmarena.com/meizu_m3s-8148.php,0,1,1,0,0,38000
+731,Meizu M3,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m3.jpg,5.0000,https://www.gsmarena.com/meizu_m3-8062.php,0,1,1,0,0,39000
+732,Meizu Pro 6,57,366,15209,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-pro-6.jpg,5.2000,https://www.gsmarena.com/meizu_pro_6-7971.php,1,1,1,0,0,96000
+733,Meizu M3 Note,93,160,4567,2016,https://cdn2.gsmarena.com/vv/bigpic/meizu-m3-note.jpg,5.5000,https://www.gsmarena.com/meizu_m3_note-8005.php,0,1,1,0,0,44000
+734,Meizu M1 Metal,61,151,8526,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-metal1.jpg,5.5000,https://www.gsmarena.com/meizu_m1_metal-7674.php,0,1,1,0,0,0
+735,Meizu PRO 5,95,348,20038,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-pro-5.jpg,5.7000,https://www.gsmarena.com/meizu_pro_5-7573.php,1,1,1,0,0,0
+736,Meizu M2,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-m2.jpg,5.0000,https://www.gsmarena.com/meizu_m2-7455.php,0,1,1,0,0,31000
+737,Meizu MX5,55,187,10403,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-mx5.jpg,5.5000,https://www.gsmarena.com/meizu_mx5-7240.php,0,1,1,0,0,53000
+738,Meizu M2 Note,69,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-m1-note2.jpg,5.5000,https://www.gsmarena.com/meizu_m2_note-7266.php,0,1,1,0,0,32000
+739,Meizu M1,0,89,0,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-m1-note-mini.jpg,5.0000,https://www.gsmarena.com/meizu_m1-6978.php,0,1,0,0,0,30000
+740,Meizu M1 Note,66,116,4617,2015,https://cdn2.gsmarena.com/vv/bigpic/meizu-m1-note-1.jpg,5.5000,https://www.gsmarena.com/meizu_m1_note-6890.php,0,1,1,0,0,49000
+741,Asus Zenfone 6 ZS630KL,0,446,0,2019,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-6-zs630kl.jpg,6.4000,https://www.gsmarena.com/asus_zenfone_6_zs630kl-9698.php,1,1,1,0,0,365000
+742,Asus ZenFone Live (L2),0,0,0,2019,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-live-l2.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_live_(l2)-9667.php,0,1,1,0,0,25000
+743,Asus Zenfone Max Plus (M2) ZB634KL,0,268,0,2019,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-plus-m2.jpg,6.2600,https://www.gsmarena.com/asus_zenfone_max_plus_(m2)_zb634kl-9634.php,0,1,1,0,0,0
+744,Asus Zenfone Max Shot ZB634KL,0,277,0,2019,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-shot.jpg,6.2600,https://www.gsmarena.com/asus_zenfone_max_shot_zb634kl-9633.php,0,1,1,0,0,0
+745,Asus Zenfone Max Pro (M2) ZB631KL,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-pro-m2r1.jpg,6.2600,https://www.gsmarena.com/asus_zenfone_max_pro_(m2)_zb631kl-9410.php,1,1,1,0,0,0
+746,Asus Zenfone Max (M2) ZB633KL,0,0,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-m2-zb633kl-r.jpg,6.2600,https://www.gsmarena.com/asus_zenfone_max_(m2)_zb633kl-9437.php,0,1,1,0,0,0
+747,Asus Zenfone Max (M1) ZB556KL,0,107,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-m1-zb556kl.jpg,5.4500,https://www.gsmarena.com/asus_zenfone_max_(m1)_zb556kl-9373.php,0,1,1,0,0,0
+748,Asus ZenFone Lite (L1) ZA551KL,0,71,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-lite-l1-za551kl.jpg,5.4500,https://www.gsmarena.com/asus_zenfone_lite_(l1)_za551kl-9372.php,0,1,1,0,0,0
+749,Asus ROG Phone,78,849,60171,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-rog-phone.jpg,6.0000,https://www.gsmarena.com/asus_rog_phone-9224.php,1,1,1,0,0,304000
+750,Asus ZenFone Live (L1) ZA550KL,0,89,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-live-l1-za550kl-.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_live_(l1)_za550kl-9194.php,0,1,1,0,0,0
+751,Asus Zenfone Max Pro (M1) ZB601KL/ZB602K,0,143,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-pro-m1-zb601kl-.jpg,5.9900,https://www.gsmarena.com/asus_zenfone_max_pro_(m1)_zb601kl_zb602k-9173.php,1,1,1,0,0,0
+752,Asus Zenfone 5z ZS620KL,0,446,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-5-ze620kl-5z-zs620kl.jpg,6.2000,https://www.gsmarena.com/asus_zenfone_5z_zs620kl-9096.php,1,1,1,0,0,274000
+753,Asus Zenfone 5 ZE620KL,0,357,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-5-ze620kl-5z-zs620kl.jpg,6.2000,https://www.gsmarena.com/asus_zenfone_5_ze620kl-9061.php,1,1,1,0,0,136000
+754,Asus Zenfone 5 Lite ZC600KL,0,223,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-5-lite-r.jpg,6.0000,https://www.gsmarena.com/asus_zenfone_5_lite_zc600kl-9068.php,1,1,1,0,0,71000
+755,Asus Zenfone Max (M1) ZB555KL,0,143,0,2018,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-m1-zb555kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_max_(m1)_zb555kl-9097.php,0,1,1,0,0,0
+756,Asus Zenfone Max Plus (M1) ZB570TL,0,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-m1.jpg,5.7000,https://www.gsmarena.com/asus_zenfone_max_plus_(m1)_zb570tl-8953.php,0,1,1,0,0,0
+757,Asus Zenfone V V520KL,0,380,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-v-v520kl.jpg,5.2000,https://www.gsmarena.com/asus_zenfone_v_v520kl-8866.php,0,1,1,0,0,0
+758,Asus Zenfone 4 Pro ZS551KL,0,348,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-pro-zs551kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_pro_zs551kl-8783.php,1,1,1,1,0,175000
+759,Asus Zenfone 4 ZE554KL,0,357,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-ze554kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_ze554kl-8782.php,1,1,1,0,0,71000
+760,Asus Zenfone 4 Selfie Lite ZB553KL,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-selfie-zb553kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_selfie_lite_zb553kl-8892.php,0,1,1,0,0,0
+761,Asus Zenfone 4 Selfie ZB553KL,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-selfie-zb553kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_selfie_zb553kl-8862.php,0,1,1,0,0,38000
+762,Asus Zenfone 4 Selfie Pro ZD552KL,0,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-selfie-pro-zd552kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_selfie_pro_zd552kl-8808.php,0,1,1,0,0,61000
+763,Asus Zenfone 4 Selfie ZD553KL,0,259,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-selfie-zd553kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_selfie_zd553kl-8784.php,0,1,1,0,0,0
+764,Asus Zenfone 4 Max ZC520KL,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-ZC520KL.jpg,5.2000,https://www.gsmarena.com/asus_zenfone_4_max_zc520kl-8811.php,0,1,1,0,0,37000
+765,Asus Zenfone 4 Max Plus ZC554KL,0,196,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-max-zc554kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_max_plus_zc554kl-8810.php,0,1,1,0,0,0
+766,Asus Zenfone 4 Max Pro ZC554KL,0,223,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-max-zc554kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_max_pro_zc554kl-8814.php,0,1,1,0,0,0
+767,Asus Zenfone 4 Max ZC554KL,0,241,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4-max-zc554kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_4_max_zc554kl-8749.php,0,1,1,0,0,43000
+768,Asus Zenfone Go ZB552KL,0,107,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zb551kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_go_zb552kl-8681.php,0,1,1,0,0,25000
+769,Asus Zenfone Live ZB501KL,0,134,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-live-zb501kl.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_live_zb501kl-8579.php,0,1,1,0,0,25000
+770,Asus Zenfone 3s Max ZC521TL,0,160,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3s-max-zc-521tl.jpg,5.2000,https://www.gsmarena.com/asus_zenfone_3s_max_zc521tl-8550.php,0,1,1,0,0,36000
+771,Asus Zenfone AR ZS571KL,0,393,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-ar-.jpg,5.7000,https://www.gsmarena.com/asus_zenfone_ar_zs571kl-8502.php,0,1,1,0,0,165000
+772,Asus Zenfone 3 Zoom ZE553KL,0,286,0,2017,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-zoom-ze553kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_3_zoom_ze553kl-8509.php,0,1,1,0,0,62000
+773,Asus Zenfone Go ZB690KG,0,107,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zb690kg.jpg,6.9000,https://www.gsmarena.com/asus_zenfone_go_zb690kg-8503.php,0,1,1,0,0,20000
+774,Asus Zenfone Go ZB500KL,0,116,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zb500kl.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_go_zb500kl-8467.php,0,1,1,0,0,20000
+775,Asus Zenfone 3 Max ZC553KL,0,169,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-max-zc553kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_3_max_zc553kl-8425.php,0,1,1,0,0,36000
+776,Asus Zenfone 3 Deluxe 5.5 ZS550KL,0,250,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-deluxe-55-inch.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_3_deluxe_5_5_zs550kl-8384.php,1,1,1,0,0,0
+777,Asus Zenfone 3 Max ZC520TL,0,205,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-max-zc520tl.jpg,5.2000,https://www.gsmarena.com/asus_zenfone_3_max_zc520tl-8207.php,0,1,1,0,0,36000
+778,Asus Zenfone 3 Laser ZC551KL,0,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-laser-zc551kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_3_laser_zc551kl-8206.php,0,1,1,0,0,37000
+779,Asus Zenfone 3 ZE520KL,0,250,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-ZE520KL-1.jpg,5.2000,https://www.gsmarena.com/asus_zenfone_3_ze520kl-8197.php,0,1,1,0,0,62000
+780,Asus Zenfone Pegasus 3,0,187,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-pegasus-3.jpg,5.2000,https://www.gsmarena.com/asus_zenfone_pegasus_3-8156.php,0,1,1,0,0,35000
+781,Asus Zenfone 3 Ultra ZU680KL,0,268,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-ultra-zu680kl.jpg,6.8000,https://www.gsmarena.com/asus_zenfone_3_ultra_zu680kl-8130.php,0,1,1,0,0,73000
+782,Asus Zenfone 3 Deluxe ZS570KL,0,205,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-deluxe-zs570kl.jpg,5.7000,https://www.gsmarena.com/asus_zenfone_3_deluxe_zs570kl-8129.php,1,1,1,0,0,135000
+783,Asus Zenfone 3 ZE552KL,74,294,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-3-ze552kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_3_ze552kl-8106.php,0,1,1,0,0,61000
+784,Asus Zenfone Max ZC550KL (2016),0,151,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-zc550kl-1.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_max_zc550kl_(2016)-8111.php,0,1,1,0,0,0
+785,Asus Zenfone Go ZB450KL,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zb452kg.jpg,4.5000,https://www.gsmarena.com/asus_zenfone_go_zb450kl-8262.php,0,1,1,0,0,32000
+786,Asus Zenfone Go ZB452KG,0,80,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zb452kg.jpg,4.5000,https://www.gsmarena.com/asus_zenfone_go_zb452kg-8097.php,0,1,1,0,0,20000
+787,Asus Zenfone Go ZB551KL,0,134,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zb551kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_go_zb551kl-8095.php,0,1,1,0,0,23000
+788,Asus Zenfone Go T500,0,98,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-t500.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_go_t500-8045.php,0,1,1,0,0,20000
+789,Asus Zenfone Go ZC451TG,0,62,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zc451tg.jpg,4.5000,https://www.gsmarena.com/asus_zenfone_go_zc451tg-8048.php,0,1,1,0,0,20000
+790,Asus Live G500TG,0,143,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-live-g500tg-.jpg,5.0000,https://www.gsmarena.com/asus_live_g500tg-7866.php,0,1,1,0,0,0
+791,Asus Zenfone 2 Laser ZE551KL,0,160,0,2015,https://cdn2.gsmarena.com/vv/bigpic/zenfone-2-laser-ze550kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_2_laser_ze551kl-7733.php,0,1,1,0,0,0
+792,Asus Zenfone Zoom ZX551ML,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-zoom-zx551ml.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_zoom_zx551ml-7577.php,1,1,0,0,0,57000
+793,Asus Zenfone Go ZC500TG,0,116,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-go-zc500tg.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_go_zc500tg-7368.php,0,1,1,0,0,20000
+794,Asus Zenfone Max ZC550KL,121,151,1844,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-zc550kl-1.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_max_zc550kl-7476.php,0,1,1,0,0,27000
+795,Asus Zenfone 2 Deluxe ZE551ML,59,312,12565,2015,https://cdn2.gsmarena.com/vv/bigpic/zenfone-2-deluxe-ze551ml.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_2_deluxe_ze551ml-7475.php,0,1,1,0,0,0
+796,Asus Zenfone 2 Laser ZE601KL,0,241,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-laser-ze601kl.jpg,6.0000,https://www.gsmarena.com/asus_zenfone_2_laser_ze601kl-7479.php,0,1,1,0,0,36000
+797,Asus Zenfone 2 Laser ZE600KL,0,277,0,2016,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-laser-ze601kl.jpg,6.0000,https://www.gsmarena.com/asus_zenfone_2_laser_ze600kl-7757.php,0,1,1,0,0,0
+798,Asus Zenfone 2 Laser ZE550KL,0,196,0,2015,https://cdn2.gsmarena.com/vv/bigpic/zenfone-2-laser-ze550kl.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_2_laser_ze550kl-7477.php,0,1,1,0,0,52000
+799,Asus Zenfone 2 Laser ZE500KG,0,178,0,2015,https://cdn2.gsmarena.com/vv/bigpic/zenfone-2-laser-ze500.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_2_laser_ze500kg-7478.php,0,1,1,0,0,21000
+800,Asus Zenfone 2 Laser ZE500KL,0,187,0,2015,https://cdn2.gsmarena.com/vv/bigpic/zenfone-2-laser-ze500.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_2_laser_ze500kl-7474.php,0,1,1,0,0,52000
+801,Asus Zenfone 2E,0,98,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2e.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_2e-7444.php,0,1,1,0,0,0
+802,Asus Pegasus 2 Plus,0,268,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-pegasus-2-plus-.jpg,5.5000,https://www.gsmarena.com/asus_pegasus_2_plus-7378.php,1,1,1,0,0,31000
+803,Asus Zenfone Selfie ZD551KL,63,250,4915,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-selfie.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_selfie_zd551kl-7261.php,0,1,1,0,0,39000
+804,Asus Zenfone 2 ZE500CL,0,160,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-ze500cl.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_2_ze500cl-7044.php,0,1,0,0,0,27000
+805,Asus Zenfone 2 ZE550ML,0,223,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-ze550ml.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_2_ze550ml-7120.php,0,1,1,0,0,41000
+806,Asus Zenfone 2 ZE551ML,59,268,12565,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-new.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_2_ze551ml-6917.php,1,1,1,0,0,50000
+807,Asus Zenfone C ZC451CG,0,80,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-c.jpg,4.5000,https://www.gsmarena.com/asus_zenfone_c_zc451cg-6982.php,0,1,1,0,0,18000
+808,Asus Zenfone Zoom ZX550,0,357,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-zoom-zx550.jpg,5.5000,https://www.gsmarena.com/asus_zenfone_zoom_zx550-6918.php,0,1,1,0,0,0
+809,Asus Pegasus,0,71,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-x002.jpg,5.0000,https://www.gsmarena.com/asus_pegasus-6897.php,0,1,1,0,0,0
+810,Asus Zenfone 5 A501CG (2015),0,107,0,2015,https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-5-a501cg.jpg,5.0000,https://www.gsmarena.com/asus_zenfone_5_a501cg_(2015)-7160.php,0,1,1,0,0,0
