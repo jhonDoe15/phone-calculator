@@ -1,32 +1,31 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState }  from 'react';
 import './App.css';
-import PhonesDisplay from './Components/PhonesDisplay/PhonesDisplay'
-import axios from 'axios';
+import PhonesGrid from './Components/PhonesGrid/PhonesGrid'
+import { Menu } from 'semantic-ui-react'
 
 const App = () => {
+  const [navbarState, setNavbarState] = useState({ activeItem: 'home' })
 
-  useEffect(() => {
-    axios.get("http://127.0.0.1:5000/device/all")
-      .then(res => {
-        const allDevices = res.data;
-        setDevices(allDevices);
-      })
-    axios.get("http://127.0.0.1:5000/edge-scores")
-      .then(res => {
-        setEdgeScores(res.data);
-      })
-  },[]);
+  const handleItemClick = (e, { name }) => setNavbarState({ activeItem: name })
 
-  const [devices, setDevices] = useState([]);
-  const [edgeScores, setEdgeScores] = useState(
-    {
-      
-    }
-  );
+  const { activeItem } = navbarState
+  
 
   return (
-    <div className="App">
-      <PhonesDisplay devices={devices} edgeScores={edgeScores}/>
+    <div className="App" style={{backgroundColor: 'black',color: 'white'}}>
+      <Menu inverted>
+        <Menu.Item
+          name='home'
+          active={activeItem === 'home'}
+          onClick={handleItemClick}
+        />
+        <Menu.Item
+          name='else'
+          active={activeItem === 'else'}
+          onClick={handleItemClick}
+        />
+      </Menu>
+      <PhonesGrid/>
     </div>
   );
 }

@@ -9,7 +9,7 @@ CORS(app)
 id_string = "Id"
 
 
-with open('phones.json') as phones_json_file:
+with open('revisedphones.json') as phones_json_file:
     phones_loaded = json.load(phones_json_file)
 
 @app.route('/device/all', methods=['GET'])

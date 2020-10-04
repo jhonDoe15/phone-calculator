@@ -12,13 +12,13 @@ const PhoneCard = (props) => {
 
     return (
         <Card>
-            <Image src={props.device.ImageURL} size="small" className="centered" />
-            <Card.Content>
-                <Card.Header>{props.device.devicename}</Card.Header>
-                <Card.Meta>
+            <Image src={props.device.ImageURL} size="small" className="centered" style={{backgroundColor: 'black', color: 'white'}} />
+            <Card.Content style={{backgroundColor: 'black', color: 'white'}}>
+                <Card.Header style={{backgroundColor: 'black', color: 'white'}}>{props.device.devicename}</Card.Header>
+                <Card.Meta style={{backgroundColor: 'black', color: 'white'}}>
                     <span className='date'>Launched in {props.device.year}</span>
                 </Card.Meta>
-                <Card.Description style={{ textAlign: 'left', fontSize: '1vw' }}>
+                <Card.Description style={{ textAlign: 'left', fontSize: '1vw',backgroundColor: 'black', color: 'white' }}>
                     IR: {props.device.ir === "1" ? "True" : "False"}<br />
                     NFC: {props.device.nfc === "1" ? "True" : "False"}<br />
                     DUALSIM: {props.device.dualsim === "1" ? "True" : "False"}<br />
@@ -30,7 +30,7 @@ const PhoneCard = (props) => {
                     dxomarkScore: {props.device.dxomarkScore}<br />
                 </Card.Description>
             </Card.Content>
-            <Card.Content extra>
+            <Card.Content extra style={{backgroundColor: 'black', color: 'white'}}>
                 <Icon color="red" name='certificate' />
                 {getTwoDecimalPoints(props.score)}
             </Card.Content>
